@@ -4,7 +4,7 @@ description: Méthodologie SpeedBoat
 
 # Définir le cadre de collaboration d’un projet
 
-### Méthologie de l'atelier SpeedBoat
+### Méthodologie de l'atelier SpeedBoat
 
 L’exercice collectif dit « du speedboat » a pour objectif de lister les leviers, freins et obstacles rencontrés par un projet de « commun numérique », ou qui peuvent se présenter à lui. Cet exercice permet également d’identifier les éléments structurants les plus adaptés pour tirer profit des leviers et anticiper les freins et obstacles potentiels.
 
