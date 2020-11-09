@@ -5,10 +5,7 @@
 Structuration :
 
 * retravailler les chapeaux / articulation entre les ressources
-
-
 * faire les liens entre les ressources
-* rédiger les chapeaux
 
 Sur le fond :
 
