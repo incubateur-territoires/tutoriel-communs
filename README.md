@@ -6,12 +6,11 @@
 
 Vous souhaitez développer un projet de commun numérique ? Vous êtes dans une structure publique ou privée, impliquée dans le maintien ou le développement de tels projets ? Ces pages ont pour objectif de répondre aux principales questions qui entourent l’émergence et la pérennisation de communs numériques.
 
-Vous avez ***besoin de vous informer*** sur l'opportunité ou la mise en œuvre de communs numériques ? Consultez les trois modules ci-dessous, soit intégralement comme un parcours complet, soit à la carte en fonction de vos objectifs actuels :
+/Besoin de cadrage/ ? La section **recommandations** guidera tous les porteurs de projets de communs numériques dans les différentes phases de leur projet souhaitant valider les orientations et actions réalisées :
+1. [lors de la phase de préfiguration](preparer-la-constitution-en-commun-numerique/)
+2. [en cours de vie du commun numérique](participer-a-la-vie-du-commun-numerique/)
+3. [lors de la sortie de l'administration](anticiper-la-suite-du-commun-numerique/)
 
-1. [Préparer la constitution en commun numérique](preparer-la-constitution-en-commun-numerique/)
-2. [Participer à la vie du commun numérique](participer-a-la-vie-du-commun-numerique/)
-3. [Anticiper la suite du commun numérique](anticiper-la-suite-du-commun-numerique/)
+/Besoin d'information/ ? La section **tutoriel** est une base de connaissance collaborative qui documente et explicite les différentes faces des communs numériques, permettant de renforcer votre discours, de sensibiliser les membres de votre communauté et de votre organisation. 
 
-Vous avez ***besoin d'outils de cadrage*** (checklists, orientation vers des ressources) pour soutenir votre démarche ? D'autres sont déjà passé par là, et ont partagé leur (bonnes) pratiques. En ressort un **[référentiel](referentiel/)**[ ](referentiel/)**qui** met à votre disposition ces livrables, issus d'ateliers récents.
-
-Vous recherchez des ***éléments de mise en pratique*** (facilitation d'ateliers, retour d'expérience...), explorez les [ressources ](ressources/)que nous alimentons régulièrement.
+/Besoin de ressources clé en main/ ? D'autres sont déjà passés par là, et ont partagé leurs outils et (bonnes) pratiques que vous trouverez dans la section [ressources ](ressources/).
