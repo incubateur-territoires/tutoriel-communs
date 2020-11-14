@@ -1,6 +1,6 @@
 ---
-description: explication ici
----
+
+## description: explication ici
 
 # Cibler le besoin et son environnement
 
@@ -11,25 +11,23 @@ description: explication ici
 
 ### 🎯 Objectifs
 
-* Clarifier le besoin et les éléments numériques attachés
+* Clarifier le besoin et les composants numériques attachés (logiciels, bases de données, etc.)
 * Identifier les acteurs susceptibles d'être intéressés par un projet de commun numérique (parties prenantes potentielles)
 * Identifier et caractériser les projets existants susceptibles de répondre en tout ou partie au besoin
 * Initier en interne la démarche de communs numériques
 
 ### 📑 Actions clés
 
-1. [ ] A1. Je formalise les caractéristiques principales de mon projet
-1. [ ] A2. Je cartographie les acteurs concernés et les ressources existantes mobilisables.
-1. [ ]  A3. J'informe en interne de ma volonté d'initier ou rejoindre une démarche de commun numérique.
+* [ ] A1. Formaliser les caractéristiques principales de mon projet
+* [ ] A2. Cartographier les acteurs concernés et les ressources existantes mobilisables
+* [ ] A3. Informer en interne de la volonté d'initier ou rejoindre une démarche de commun numérique.
+
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique ICI
 
 ### 💡 Ressources utiles
 
 * Liste des projets de communs numériques au sein de l'administration (à faire)
-
 * Voir notamment la fiche « Commun(s) model canvas » [à venir]
-
-* Consulter Data.gouv.fr (bases de données) ; code.etalab.gouv.fr (code source logiciel)
-
-* Consulter « Tutoriel aux communs numériques - Comprendre »
-
-* Voir « Tutoriel aux communs numériques - Disséminer » + ressources XYZ (arguments)
+* Data.gouv.fr (bases de données) ; code.etalab.gouv.fr (code source logiciel)
+* Tutoriel aux communs numériques - Comprendre
+* Tutoriel aux communs numériques - Disséminer » + ressources XYZ (arguments)
