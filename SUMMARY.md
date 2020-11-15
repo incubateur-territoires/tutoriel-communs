@@ -38,7 +38,7 @@
   * [Définir un modèle économique pérenne](recommandations-2-participer-a-la-vie-du-commun-numerique/2-6-definir-un-modele-economique-perenne.md)
   * [Sécuriser les droits des contributeurs](recommandations-2-participer-a-la-vie-du-commun-numerique/2-3-securiser-les-droits-des-contributeurs.md)
   * [Définir une gouvernance \#](recommandations-2-participer-a-la-vie-du-commun-numerique/2-4-definir-une-gouvernance.md)
-  * [Organiser une structure porteuse](recommandations-2-participer-a-la-vie-du-commun-numerique/2-5-organiser-une-structure-porteuse.md)
+  * [Organiser une structure porteuse \#](recommandations-2-participer-a-la-vie-du-commun-numerique/2-5-organiser-une-structure-porteuse.md)
   * [Développer la communauté \#](recommandations-2-participer-a-la-vie-du-commun-numerique/2-1-developper-la-communaute.md)
   * [Animer la communauté \#](recommandations-2-participer-a-la-vie-du-commun-numerique/2-2-animer-la-communaute.md)
 * [Préparer la constitution en commun numérique \#](recommandations-1-preparer-la-constitution-en-commun-numerique/README.md)
