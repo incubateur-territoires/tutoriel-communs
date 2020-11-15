@@ -23,7 +23,7 @@
   * [Définir le cadre de collaboration d’un projet](ressources/definir-le-cadre-de-collaboration-dun-projet.md)
   * [Financer un projet de commun](ressources/financer-un-projet-de-commun.md)
 * [Anticiper la suite du commun numérique \#](recommandations-3-anticiper-la-suite-du-commun-numerique/README.md)
-  * [Repenser le rôle de l’administration/la collectivité au sein de la communauté](recommandations-3-anticiper-la-suite-du-commun-numerique/3-1-repenser-le-role-de-l-administration.md)
+  * [Repenser le rôle de l’organisation au sein de la communauté](recommandations-3-anticiper-la-suite-du-commun-numerique/3-1-repenser-le-role-de-l-administration.md)
   * [Documenter ce qui a été fait](recommandations-3-anticiper-la-suite-du-commun-numerique/3-2-documenter.md)
 * [tutoriel](tutoriel/README.md)
   * [1 - Comprendre](tutoriel/01-comprendre.md)
