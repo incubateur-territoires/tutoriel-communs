@@ -56,7 +56,7 @@ Chaque phase est à formater en fonction du temps de l’atelier et du nombre de
 ### Aller plus loin 
 
 * Possibilité de faire travailler les participants sur un ou plusieurs des éléments structurants identifiés sur le mât \(par ex : charte, valeurs communes, etc.\) de manière plus approfondie et précise.
-* Possibilité de partager avec les participants les [Piliers d’un projet de commun numérique](../referentiel/favoriser-la-perennite-dun-commun/) »  pour les inspirer et/ou les faire réagir.
+* Possibilité de partager avec les participants les [Piliers d’un projet de commun numérique]() »  pour les inspirer et/ou les faire réagir.
 
 ![Exemple d&#x2019;un support rempli &#xE0; l&#x2019;issu d&#x2019;un atelier](../.gitbook/assets/speedboat2.png)
 

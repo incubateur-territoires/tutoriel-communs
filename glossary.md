@@ -24,7 +24,7 @@ Bonnes pratiques
 
 Wiki
 
-Droit d'auteur (logiciel)
+Droit d'auteur \(logiciel\)
 
 Contributor License Agreement
 
@@ -38,4 +38,5 @@ Statuts sociaux
 
 Valorisation économique
 
-Documentation 
+Documentation
+

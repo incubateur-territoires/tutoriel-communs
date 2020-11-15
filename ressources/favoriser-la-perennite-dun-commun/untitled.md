@@ -32,12 +32,6 @@ description: (guidelines)
 
 **8. La « compostabilité » du projet**, qui consiste à penser le projet et chacun des éléments qui le composent comme « périssables » et donc à les concevoir de façon à ce que les ressources qui en seront tirées puissent être réutilisées plus tard, dans le cadre du projet ou d’autres initiatives.
 
-
-
-
-
-
-
 {% hint style="info" %}
 Source : Atelier \#3 "Pérenniser les communs", Lab SoNum x Inno³, 2019
 {% endhint %}

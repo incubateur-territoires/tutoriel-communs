@@ -8,12 +8,6 @@ A travers trois séries de questions, cette grille aide à déterminer l’oppor
 
 {% page-ref page="checklist-3-3-cette-ouverture-a-de-linteret-pour-lecosysteme.md" %}
 
-
-
-
-
-
-
 {% hint style="info" %}
 Source : Atelier \#1 "Identifier des communs", Lab SoNum x Inno³, 2019
 {% endhint %}

@@ -8,7 +8,7 @@ Dans ce cadre, le tableau “Liste des besoins de financement et dispositifs ass
 * des financeurs potentiels et les dispositifs activables
 * les points de difficulté potentiels
 
-|  A financer :  |
+| A financer : |
 | :--- |
 | Infrastructure numérique \(logiciels, etc.\) |
 | Équipe technique temps long \(admin sys\) |
@@ -41,12 +41,6 @@ Dans ce cadre, le tableau “Liste des besoins de financement et dispositifs ass
 {% hint style="danger" %}
 Doit-on évoquer une date de fabrication ou de péremption de ce fichier ?
 {% endhint %}
-
-
-
-
-
-
 
 {% hint style="info" %}
 Source : Référentiel \#4, Lab SoNum x Inno³, 2019

@@ -1,14 +1,14 @@
 # Argumentaire à destination d’un.e influenceur.euse spécialisée sur les mouvements alternatifs
 
-Cible : Influenceur.euse, médiateur.rice culturel.le, il/elle tient un blog très lu sur les mouvements alternatifs. Il/Elle est très occupé.e mais est sensible aux idées de communs. 
+Cible : Influenceur.euse, médiateur.rice culturel.le, il/elle tient un blog très lu sur les mouvements alternatifs. Il/Elle est très occupé.e mais est sensible aux idées de communs.
 
-Objections potentielles : 
+Objections potentielles :
 
 * La notion de commun lui est familière, mais il/elle n’en maîtrise pas les finesses ; 
 * S’y intéresser en profondeur lui demanderait trop d’investissement / de temps ; 
 * Certain.e.s blogueur.euse.s ou journalistes sont déjà expert.e.s sur ces sujets. 
 
-Arguments en faveur des démarches de communs numériques : 
+Arguments en faveur des démarches de communs numériques :
 
 * Il/Elle pourra ouvrir de nouvelles voies à son lectorat habituel, qui pourrait potentiellement découvrir et bénéficier de démarches de communs numériques ; 
 * Il/Elle bénéficiera de l’intelligence collective pour nourrir son propos ; 

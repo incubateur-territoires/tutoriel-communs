@@ -1,14 +1,14 @@
 # Argumentaire à destination d’un.e citoyen.e non familier.ère avec les communs numériques
 
-Cible : Citoyen.ne « lambda », a priori éloigné.e des démarches de communs numériques. Il est possible qu’il ou elle utilise ou contribue à des communs sans toutefois en être conscient.e., ou que les communs lui seraient utiles dans le cadre de ses activités. 
+Cible : Citoyen.ne « lambda », a priori éloigné.e des démarches de communs numériques. Il est possible qu’il ou elle utilise ou contribue à des communs sans toutefois en être conscient.e., ou que les communs lui seraient utiles dans le cadre de ses activités.
 
-Objections potentielles : 
+Objections potentielles :
 
 * C’est un sujet qui lui est étranger ; il/elle ne sent pas concerné.e ; 
 * S’y intéresser ou y contribuer demande trop de temps ; 
 * Contribuer demande des compétences techniques ou expertes, qu’il/elle ne pense pas avoir.
 
-Arguments en faveur des démarches de communs numériques : 
+Arguments en faveur des démarches de communs numériques :
 
 * De nombreux communs sont à disposition – il/elle en utilise déjà probablement certains – pour faciliter son activité ; 
 * Il/Elle sera accueilli.e par la communauté \(des dispositifs sont prévus\) et soutenu.e dans son implication ; 

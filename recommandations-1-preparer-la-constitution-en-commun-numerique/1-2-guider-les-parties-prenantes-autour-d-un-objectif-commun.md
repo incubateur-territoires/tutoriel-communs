@@ -1,19 +1,19 @@
 # Guider les parties prenantes autour d’un objectif commun
 
-### ❓ Enjeux
+## ❓ Enjeux
 
 * Je souhaite réunir et mobiliser toutes les parties intéressées autour du projet de commun
 * Je souhaite faire s’engager toutes les parties prenantes autour du projet commun
 * Je souhaite initier une démarche communautaire incluant les parties prenantes actuelles et futures autour du commun.
 * Nous souhaitons formaliser les règles de réutilisation du commun
 
-### 🎯 Objectifs
+## 🎯 Objectifs
 
 * Définir un projet collectif sur la base des besoins individuels
 * Constituer une communauté autour de la conception et maintenance de ce projet collectif
 * Sécuriser l’implication des membres de la communauté
 
-### 📑 Actions clés
+## 📑 Actions clés
 
 1. [ ] A.4 Lister de façon collaborative les objectifs, valeurs, freins et leviers du projet
 2. [ ] A.5 Formaliser les objectifs et valeurs du projet dans un document, et veiller à son acceptation par toutes les parties prenantes
@@ -21,6 +21,7 @@
 
 Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique ICI
 
-### 💡 Ressources utiles
+## 💡 Ressources utiles
 
 * Tutoriel aux communs numériques – Pérenniser
+

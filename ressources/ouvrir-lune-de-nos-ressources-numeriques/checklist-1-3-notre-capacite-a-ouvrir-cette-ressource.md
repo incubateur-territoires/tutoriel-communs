@@ -3,7 +3,7 @@
 * [ ] J’ai les moyens matériels et financiers d’assurer l’ouverture et la maintenance du commun 
 
 {% hint style="warning" %}
-L'ouverture d’une ressource sous forme de commun numérique impose très souvent de repenser certains éléments de cette ressource à l’aune de la collaboration souhaitée et d’assurer ensuite une implication dans la maintenance de cette ressource. 
+L'ouverture d’une ressource sous forme de commun numérique impose très souvent de repenser certains éléments de cette ressource à l’aune de la collaboration souhaitée et d’assurer ensuite une implication dans la maintenance de cette ressource.
 {% endhint %}
 
 * [ ] J’ai la possibilité et la capacité juridique et légale pour ouvrir cette ressource
@@ -29,10 +29,6 @@ Comme toute ressource immatérielle, les communs numériques sont sujets à des 
 {% hint style="warning" %}
 Dans le cadre d’une démarche constructive et bienveillance, la collaboration autour d’un commun numérique induit de confronter ses idées et contributions au regard et à la critique des pairs que sont les autres contributeur.ice.s.
 {% endhint %}
-
- 
-
-
 
 {% hint style="info" %}
 Source : Atelier \#1 "Identifier des communs", Lab SoNum x Inno³, 2019

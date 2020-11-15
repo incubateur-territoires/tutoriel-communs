@@ -16,7 +16,6 @@
       <td style="text-align:left">Code / d&#xE9;veloppements</td>
       <td style="text-align:left">D&#xE9;veloppeur.euse.s</td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Transparence</li>
           <li>Acc&#xE8;s &#xE0; la documentation</li>
@@ -24,7 +23,6 @@
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>D&#xE9;p&#xF4;t de code</li>
           <li>Int&#xE9;gration continue</li>
@@ -33,7 +31,6 @@
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Licence</li>
           <li>Droits de commits</li>
@@ -41,7 +38,6 @@
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Simplicit&#xE9; d&apos;acc&#xE8;s</li>
           <li>Visibilit&#xE9;</li>
@@ -53,14 +49,12 @@
     <tr>
       <td style="text-align:left">Interop&#xE9;rabilit&#xE9; / Standard</td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Expert.e.s interop&#xE9;rabilit&#xE9; et/ou normes &amp; standards</li>
           <li>D&#xE9;veloppeur.euse.s et contributeur.rice.s &#xE0; la ressource</li>
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Transparence</li>
           <li>Acc&#xE8;s &#xE0; la documentation et &#xE0; l&#x2019;ensemble des informations
@@ -70,19 +64,14 @@
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>D&#xE9;p&#xF4;t de code</li>
           <li>Canal IRC, listes</li>
           <li>Outils de test pour s&#x2019;assurer du respect des normes</li>
         </ul>
       </td>
+      <td style="text-align:left">Publication des normes et standards respect&#xE9;s</td>
       <td style="text-align:left">
-        <p></p>
-        <p>Publication des normes et standards respect&#xE9;s</p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Interop&#xE9;rabilit&#xE9;</li>
           <li>Compostabilit&#xE9; des projets</li>
@@ -97,7 +86,6 @@
       <td style="text-align:left">Documentation du logiciel</td>
       <td style="text-align:left">Tout.e contributeur.rice</td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>
             <p>Transparence de tous les</p>
@@ -108,7 +96,6 @@
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Gestionnaire de contenu</li>
           <li>Liste</li>
@@ -119,7 +106,6 @@
       <td style="text-align:left">Processus de contribution (&#xE9;criture, relecture, publication)</td>
       <td
       style="text-align:left">
-        <p></p>
         <ul>
           <li>
             <p>Acc&#xE8;s rapide et clair &#xE0; l&apos;ensemble des</p>
@@ -132,14 +118,12 @@
     <tr>
       <td style="text-align:left">Assurance Qualit&#xE9;</td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Tout.e contributeur.rice</li>
           <li>Testeur.euse</li>
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Pluralit&#xE9; des comp&#xE9;tences</li>
           <li>Transparence</li>
@@ -147,7 +131,6 @@
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Bug tracker</li>
           <li>
@@ -161,7 +144,6 @@
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Cycle de vie d&apos;un bug</li>
           <li>Process de contribution</li>
@@ -169,7 +151,6 @@
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Veille qualit&#xE9; du code</li>
           <li>Usabilit&#xE9; du produit</li>
@@ -181,7 +162,6 @@
       <td style="text-align:left">Gouvernance de la ressource</td>
       <td style="text-align:left">Tout.e contributeur.rice</td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>transparence</li>
           <li>mise &#xE0; disposition des documents de gouvernance</li>
@@ -191,7 +171,6 @@
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>outils de discussion, d&#xE9;bat, vote (Loomio, DemocracyOS, listes, forums,
             chats, etc.)</li>
@@ -201,7 +180,6 @@
       <td style="text-align:left">R&#xE8;gles relatives &#xE0; la prise de d&#xE9;cisions / parole, r&#xE8;glement
         de litiges</td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>p&#xE9;rennit&#xE9; du commun</li>
           <li>fonctionnement plus fluide, transparence, collaboration facilit&#xE9;e</li>
@@ -213,7 +191,6 @@
       <td style="text-align:left">Tout.e contributeur.rice (avec, lorsque possible, la cr&#xE9;ation de
         groupes t&#xE9;moins de partie prenantes)</td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Mettre en avant des gratifications multiples et vari&#xE9;es (r&#xF4;le
             social, altruisme)</li>
@@ -221,7 +198,6 @@
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Fournir des &#xAB; kits &#xBB; regroupant toutes les informations n&#xE9;cessaires
             &#xE0; cette activit&#xE9;</li>
@@ -231,7 +207,6 @@
       </td>
       <td style="text-align:left">Code de conduite</td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Inclusivit&#xE9;</li>
           <li>Intelligence collective</li>
@@ -242,7 +217,6 @@
       <td style="text-align:left">Traduction / internationalisation</td>
       <td style="text-align:left">Des personnes bilingues, professeur.e.s, linguistes, etc.</td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>documentation</li>
           <li>publicit&#xE9; / visibilit&#xE9;</li>
@@ -250,7 +224,6 @@
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>outils collaboratifs de traduction en ligne</li>
           <li>listes de discussion</li>
@@ -258,7 +231,6 @@
       </td>
       <td style="text-align:left">Processus de traduction clairs</td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>internationalisation de la ressource</li>
           <li>meilleure visibilit&#xE9;, diffusion / diss&#xE9;mination</li>
@@ -269,10 +241,6 @@
     </tr>
   </tbody>
 </table>
-
-
-
-
 
 {% hint style="info" %}
 Source : Atelier \#2 "Produire des communs", Lab SoNum x Inno³, 2019

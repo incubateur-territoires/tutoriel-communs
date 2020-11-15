@@ -1,15 +1,15 @@
 # Argumentaire à destination d’un.e élu.e
 
-Cible : Maire d’une grande ville et président.e de la métropole, l’intérêt général est sa priorité. Il/Elle commence à introduire la notion de communs dans ses discours. 
+Cible : Maire d’une grande ville et président.e de la métropole, l’intérêt général est sa priorité. Il/Elle commence à introduire la notion de communs dans ses discours.
 
-Objections potentielles : 
+Objections potentielles :
 
 * Le sujet ne lui est pas familier, génère une crainte liée à l’inconnu et à une éventuelle perte de maîtrise ; 
 * La démarche est longue à mettre en place et pourrait ne pas avoir d’impact au cours de son mandat \(voire être récupérée par d’autres\) ; 
 * Il/Elle doute de la réussite et de l’efficacité d’un projet de commun numérique ; 
 * Cela demande un temps considérable dont ni lui/elle ni ses équipes ne disposent. 
 
-Arguments en faveur des démarches de communs numériques : 
+Arguments en faveur des démarches de communs numériques :
 
 * Soutenir les communs c’est agir dans une logique d’intérêt général ; 
 * La contribution peut avoir un faible coût ; 

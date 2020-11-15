@@ -1,22 +1,22 @@
----
+# 1-1-cibler-le-besoin-et-son-environnement
 
-## description: explication ici
+### description: explication ici
 
-# Cibler le besoin et son environnement
+## Cibler le besoin et son environnement
 
-### ❓ Enjeux
+#### ❓ Enjeux
 
 * Je cherche à avoir une vision claire des ressources déjà développées ou en cours de développement, et qui répondraient à mon besoin
 * Je souhaite évaluer l’opportunité de rejoindre un commun existant ou de développer ma propre ressource
 
-### 🎯 Objectifs
+#### 🎯 Objectifs
 
-* Clarifier le besoin et les composants numériques attachés (logiciels, bases de données, etc.)
-* Identifier les acteurs susceptibles d'être intéressés par un projet de commun numérique (parties prenantes potentielles)
+* Clarifier le besoin et les composants numériques attachés \(logiciels, bases de données, etc.\)
+* Identifier les acteurs susceptibles d'être intéressés par un projet de commun numérique \(parties prenantes potentielles\)
 * Identifier et caractériser les projets existants susceptibles de répondre en tout ou partie au besoin
 * Initier en interne la démarche de communs numériques
 
-### 📑 Actions clés
+#### 📑 Actions clés
 
 * [ ] A1. Formaliser les caractéristiques principales de mon projet
 * [ ] A2. Cartographier les acteurs concernés et les ressources existantes mobilisables
@@ -24,10 +24,11 @@
 
 Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique ICI
 
-### 💡 Ressources utiles
+#### 💡 Ressources utiles
 
-* Liste des projets de communs numériques au sein de l'administration (à faire)
-* Voir notamment la fiche « Commun(s) model canvas » [à venir]
-* Data.gouv.fr (bases de données) ; code.etalab.gouv.fr (code source logiciel)
+* Liste des projets de communs numériques au sein de l'administration \(à faire\)
+* Voir notamment la fiche « Commun\(s\) model canvas » \[à venir\]
+* Data.gouv.fr \(bases de données\) ; code.etalab.gouv.fr \(code source logiciel\)
 * Tutoriel aux communs numériques - Comprendre
-* Tutoriel aux communs numériques - Disséminer » + ressources XYZ (arguments)
+* Tutoriel aux communs numériques - Disséminer » + ressources XYZ \(arguments\)
+
