@@ -1,4 +1,4 @@
-# Repenser le rôle de l’organisation au sein de la communauté \#
+# Repenser le rôle de l’organisation au sein de la communauté
 
 ## ❓ Enjeux
 
