@@ -1,10 +1,10 @@
-# Guider les parties prenantes autour d’un objectif commun
+# Guider les parties prenantes autour d’un objectif commun \#
 
 ## ❓ Enjeux
 
 * Je souhaite réunir et mobiliser toutes les parties intéressées autour du projet de commun
 * Je souhaite faire s’engager toutes les parties prenantes autour du projet commun
-* Je souhaite initier une démarche communautaire incluant les parties prenantes actuelles et futures autour du commun.
+* Je souhaite initier une démarche collective incluant les parties prenantes actuelles et futures autour du commun
 * Nous souhaitons formaliser les règles de réutilisation du commun
 
 ## 🎯 Objectifs
