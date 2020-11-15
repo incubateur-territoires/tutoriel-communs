@@ -1,4 +1,4 @@
-# Organiser une structure porteuse \#
+# Organiser une structure porteuse
 
 ## ❓ Enjeux
 
@@ -13,7 +13,7 @@
 
 ## 📑 Actions clés
 
-* [ ] B.15 Choisir la structure la plus adaptée au commun en fonction des objectifs de la communauté \(Objet lucratif ou non ; portée nationale, européenne ou internationale ; objectif de salarisation ou non ; gouvernance détaillée ou légère\).
+* [ ] B.15 Choisir la structure la plus adaptée au commun en fonction des objectifs de la communauté \(Objet lucratif ou non ; Portée nationale, européenne ou internationale ; Objectif de salarisation ou non ; Gouvernance détaillée ou légère\).
 * [ ] B.16 Opter pour une structure souple et facilement adaptable dans un 1er temps : collectif informel, association, etc.
 * [ ] B.17 Être vigilants à la définition de l’objet de la structure dans les statuts : il doit bien sûr répondre aux exigences légales en la matière, ne pas être trop restrictif, mais également être suffisamment précis
 
