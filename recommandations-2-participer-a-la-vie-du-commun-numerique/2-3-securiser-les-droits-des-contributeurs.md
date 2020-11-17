@@ -16,7 +16,7 @@
 * [ ] B.9 Dans le cas d’une contribution pour laquelle le contributeur est titulaire des droits, lui expliquer l’intérêt du CLA et l’encourager à y adhérer.
 * [ ] B.10 Dans le cas où les droits auraient été dévolus à l’employeur, l'encourager à adhérer au CLA, ou à défaut obtenir une licence sur les contributions afin de les intégrer au projet \(les termes de la licence doivent alors être compatibles avec la licence du projet\)
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique ICI
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 
 ## 💡 Ressources utiles
 

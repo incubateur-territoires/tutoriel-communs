@@ -22,7 +22,7 @@
 * [ ] A2. Cartographier les acteurs concernés et les ressources existantes mobilisables
 * [ ] A3. Informer en interne de la volonté d'initier ou rejoindre une démarche de commun numérique
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique ICI
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 
 #### 💡 Ressources utiles
 

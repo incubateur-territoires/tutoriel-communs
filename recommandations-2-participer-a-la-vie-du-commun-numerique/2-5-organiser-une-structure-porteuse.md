@@ -17,7 +17,7 @@
 * [ ] B.16 Opter pour une structure souple et facilement adaptable dans un 1er temps : collectif informel, association, etc.
 * [ ] B.17 Être vigilants à la définition de l’objet de la structure dans les statuts : il doit bien sûr répondre aux exigences légales en la matière, ne pas être trop restrictif, mais également être suffisamment précis
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique ICI
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 
 ## 💡 Ressources utiles
 

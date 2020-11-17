@@ -16,7 +16,7 @@
 * [ ] B.3 Mettre en place un protocole d’embarquement des nouveaux membres articulant mobilisation humaine et documentation précise \(présentation de la charte à signer avant de rejoindre le projet ; explication des process d’utilisation et de contribution à la ressource ; présentation des outils utilisés\)
 * [ ] B.4 Documenter les bonnes pratiques dans un wiki, y joindre les informations essentielles \(comment faire telle tâche, où trouver telle ressource, à qui s’adresser pour telle demande\)
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique ICI
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 
 ## 💡 Ressources utiles
 

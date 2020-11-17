@@ -16,7 +16,7 @@
 * [ ] B.13 Proposer plusieurs options afin d’amorcer la discussion entre tous les membres
 * [ ] B.14 Mettre en place un mode de résolution des conflits
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique ICI
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 
 ## 💡 Ressources utiles
 

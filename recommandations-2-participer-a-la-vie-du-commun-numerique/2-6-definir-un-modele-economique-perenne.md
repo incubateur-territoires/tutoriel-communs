@@ -16,7 +16,7 @@
 * [ ] B.18 Passer en revue les besoins de financement du projet, et les financeurs susceptibles d’y répondre
 * [ ] B.19 Identifier les différents moyens de valoriser le projet : support, formation, services annexes
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique ICI
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 
 ## 💡 Ressources utiles
 

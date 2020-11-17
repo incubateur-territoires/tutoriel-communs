@@ -18,7 +18,7 @@
 2. [ ] A.8 En cas de réutilisation de ressources existantes, s'assurer de la conformité de leur régime juridique au regard du contexte d'utilisation et des objectifs du projet. Solliciter si nécessaire une expertise sur ce sujet.
 3. [ ] A.9 Publier en ligne toutes les informations relatives à la description du projet, le cadre de collaboration et la licence du projet
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique ICI
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 
 ## 💡 Ressources utiles
 
