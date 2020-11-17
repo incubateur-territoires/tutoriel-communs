@@ -1,6 +1,10 @@
-# Introduction
+---
+description: >-
+  Ensemble de ressources, théoriques et opérationnelles, destiné à vous
+  accompagner dans le cadre de vos démarches de communs numériques.
+---
 
-### description: Différents outils partagés
+# Introduction
 
 ## Tutoriel aux Communs Numériques
 
