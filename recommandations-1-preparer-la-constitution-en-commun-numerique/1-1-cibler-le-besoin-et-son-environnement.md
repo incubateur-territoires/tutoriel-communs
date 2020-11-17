@@ -1,6 +1,8 @@
-# Cibler le besoin et son environnement \#V
+---
+description: Clarifier son besoin et le confronter aux démarches existantes.
+---
 
-### description: explication ici
+# Cibler le besoin et son environnement \#V
 
 ## Cibler le besoin et son environnement
 
@@ -22,13 +24,11 @@
 * [ ] A2. Cartographier les acteurs concernés et les ressources existantes mobilisables
 * [ ] A3. Informer en interne de la volonté d'initier ou rejoindre une démarche de commun numérique
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
-
 #### 💡 Ressources utiles
 
-* Liste des projets de communs numériques au sein de l'administration \(à faire\)
-* Voir notamment la fiche « Commun\(s\) model canvas » \[à venir\]
 * Data.gouv.fr \(bases de données\) ; code.etalab.gouv.fr \(code source logiciel\)
-* Tutoriel aux communs numériques - Comprendre
-* Tutoriel aux communs numériques - Disséminer » + ressources XYZ \(arguments\)
+* Tutoriel aux communs numériques - Section [comprendre](../tutoriel/01-comprendre.md) et [Disséminer](../tutoriel/06-disseminer.md) »
+* Ressource « [Argumentaire à destination d'un.e élu.e](../ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-elu.e.md) »
+
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 
