@@ -3,21 +3,21 @@
 ### [Préfigurer la constitution en commun numérique](recommandations-1-preparer-la-constitution-en-commun-numerique/)
 
 * [ ] A1. Formaliser les caractéristiques principales de mon projet
-* [ ] A2. Cartographier les acteurs concernés et les ressources existantes mobilisables
+* [ ] A2. Cartographier les acteurs concernés et les ressources existantes mobilisables **pour le besoin**
 * [ ] A3. Informer en interne de la volonté d'initier ou rejoindre une démarche de commun numérique
-* [ ] A.4 Lister de façon collaborative les objectifs, valeurs, freins et leviers du projet
-* [ ] A.5 Formaliser les objectifs et valeurs du projet dans un document, et veiller à son acceptation par toutes les parties prenantes
-* [ ] A.6 Formaliser et communiquer publiquement sur l'objectif de commun et la méthodologie adoptée
-* [ ] A.7 Évaluer collectivement l’opportunité de contribuer à une ressource existante en fonction de critères adaptés à nos besoins : moyens à disposition, importance stratégique de la ressource, etc.
-* [ ] A.8 En cas de réutilisation de ressources existantes, s'assurer de la conformité de son régime juridique au regard du contexte d'utilisation et des objectifs du projet. Solliciter si nécessaire une expertise sur ce sujet
-* [ ] A.9 Publier en ligne toutes les informations relatives à la description du projet, le cadre de collaboration et la licence du projet
+* [ ] A.4 Lister de façon collaborative les objectifs, valeurs, freins et leviers **du projet de commun numérique**
+* [ ] A.5 Formaliser les objectifs et valeurs du **projet de commun numérique** dans un document, et veiller à son acceptation par toutes les parties prenantes
+* [ ] A.6 Formaliser et communiquer publiquement sur l'objectif **du commun numérique** et la méthodologie adoptée
+* [ ] **A.7 Évaluer collectivement l’opportunité de contribuer à une ressource existante en fonction de critères adaptés à nos besoins**
+* [ ] A.8 En cas de réutilisation de ressources existantes, s'assurer de la conformité **des régimes juridiques** au regard du contexte d'utilisation et des objectifs **du communs numériques**. **En cas de doute, solliciter une expertise sur ce sujet**
+* [ ] **A.9 Publier en ligne toutes les informations relatives à la description, le cadre de collaboration et la licence du commun numérique**
 
 ### [Participer à la vie du commun numérique](recommandations-2-participer-a-la-vie-du-commun-numerique/)
 
-* [ ] B.1 Définir une communication autour du projet : identité visuelle, logo, présence sur les réseaux sociaux,
-* [ ] B.2 Établir un process permettant de s’assurer de répondre aux sollicitations externes \(mails, etc.\)
-* [ ] B.3 Mettre en place un protocole d’embarquement des nouveaux membres articulant mobilisation humaine et documentation précise \(présentation de la charte à signer avant de rejoindre le projet ; explication des process d’utilisation et de contribution à la ressource ; présentation des outils utilisés\)
-* [ ] B.4 Documenter les bonnes pratiques dans un wiki, y joindre les informations essentielles \(comment faire telle tâche, où trouver telle ressource, à qui s’adresser pour telle demande\)
+* [ ] B.1 Définir une communication **fédératrice** autour du **commun numérique**
+* [ ] B.2 **Organiser** un processus permettant **de répondre et d'intéragir face** aux sollicitations externes
+* [ ] B.3 Mettre en place un protocole d'**accueil et d’embarquement des nouveaux membres**
+* [ ] B.4 **Définir les contributeurs cibles, les outils et méthodes permettant d'accueillir efficacement leur contribution au commun**
 * [ ] B.5 Organiser des temps d’échanges réguliers, avec des règles assurant la possibilité pour chacun de participer \(Création et partage de l’ordre du jour à l’avance ; prise de notes et rédaction d’un compte-rendu ; désignation d’un animateur en charge de distribuer les tours de paroles et de modérer les échanges\)
 * [ ] B.6 Mettre en place des outils de travail collaboratif : messagerie instantanée, partage des documents et ressources, outils de gestion de projet.
 * [ ] B.7 Se renseigner sur les différents régimes d’attribution des droits d’auteur, selon que la contribution ait été faite bénévolement, par un fonctionnaire, un salarié, un stagiaire, etc.

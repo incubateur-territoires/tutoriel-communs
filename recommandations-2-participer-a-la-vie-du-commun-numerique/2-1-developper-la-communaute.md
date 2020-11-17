@@ -7,6 +7,7 @@
 ## 🎯 Objectifs
 
 * Développer la communication autour du projet auprès des différents acteurs pertinents
+* Définir les typologies de contributeurs.trices attendues et les moyens de les faire rejoindre le commun
 * Favoriser l’embarquement de nouveaux contributeurs/utilisateurs
 
 ## 📑 Actions clés
@@ -22,4 +23,6 @@ Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du 
 
 * [https://fr.wikipedia.org/wiki/MediaWiki](https://fr.wikipedia.org/wiki/MediaWiki)
 * Tutoriel - Contribuer
+* Exemples de charte : Fédération Open Space Makers
+* Fiche [Développer la ressource : besoins & réponses](../ressources/produire-des-communs/developper-la-ressource-besoins-and-reponses.md)
 
