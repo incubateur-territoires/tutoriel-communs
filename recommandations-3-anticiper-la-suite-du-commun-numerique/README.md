@@ -4,6 +4,6 @@ Cette phase doit nous permettre d'assurer la pérennité du commun une fois que 
 
 Ma checklist :
 
-* [ ] [Repenser le rôle de l’administration/la collectivité au sein de la communauté](https://github.com/incubateur-territoires/tutoriel-communs/tree/3013883386afb32c2faf395cf1921ecb467d1f86/recommandations-3-anticiper-la-suite-du-commun-numerique/untitled-1.md)
-* [ ] [Documenter ce qui a été fait](https://github.com/incubateur-territoires/tutoriel-communs/tree/3013883386afb32c2faf395cf1921ecb467d1f86/recommandations-3-anticiper-la-suite-du-commun-numerique/untitled-5.md)
+* [ ] [Repenser le rôle de l’administration/la collectivité au sein de la communauté](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/~/drafts/-MMKaumbsCoKX1frsNzn/recommandations-3-anticiper-la-suite-du-commun-numerique/3-1-repenser-le-role-de-l-administration)
+* [ ] [Documenter ce qui a été fait](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/~/drafts/-MMKaumbsCoKX1frsNzn/recommandations-3-anticiper-la-suite-du-commun-numerique/3-2-documenter)
 
