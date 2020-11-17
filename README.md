@@ -4,9 +4,9 @@ description: >-
   accompagner dans le cadre de vos démarches de communs numériques.
 ---
 
-# Introduction
+# Bienvenue
 
-## Tutoriel aux Communs Numériques
+## S'approprier les Communs Numériques
 
 Vous souhaitez développer un projet de commun numérique ? Vous êtes dans une structure publique ou privée, impliquée dans le maintien ou le développement de tels projets ? Ces pages ont pour objectif de répondre aux principales questions qui entourent l’émergence et la pérennisation de communs numériques.
 
