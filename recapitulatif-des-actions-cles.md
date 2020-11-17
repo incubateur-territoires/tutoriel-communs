@@ -1,6 +1,6 @@
 # Récapitulatif des actions-clés
 
-
+### Préfigurer la constitution en commun numérique
 
 * [ ] A1. Formaliser les caractéristiques principales de mon projet
 * [ ] A2. Cartographier les acteurs concernés et les ressources existantes mobilisables
@@ -12,7 +12,7 @@
 * [ ] A.8 En cas de réutilisation de ressources existantes, s'assurer de la conformité de son régime juridique au regard du contexte d'utilisation et des objectifs du projet. Solliciter si nécessaire une expertise sur ce sujet
 * [ ] A.9 Publier en ligne toutes les informations relatives à la description du projet, le cadre de collaboration et la licence du projet
 
-
+### Participer à la vie du commun numérique
 
 * [ ] B.1 Définir une communication autour du projet : identité visuelle, logo, présence sur les réseaux sociaux,
 * [ ] B.2 Établir un process permettant de s’assurer de répondre aux sollicitations externes \(mails, etc.\)
@@ -34,7 +34,7 @@
 * [ ] B.18 Passer en revue les besoins de financement du projet, et les financeurs susceptibles d’y répondre
 * [ ] B.19 Identifier les différents moyens de valoriser le projet : support, formation, services annexes
 
-
+### Anticiper la suite du commun numérique
 
 * [ ] C.1 Fixer des limitations de durée et de mandats consécutifs aux fonctions dirigeantes de la structure, de façon à assurer une diversité dans la représentation du commun
 * [ ] C.2 Maintenir à jour une documentation exhaustive concernant toutes les règles et processus formalisés ou non au sein du projet 
