@@ -1,8 +1,8 @@
-# Définir une gouvernance \#
+# Définir une gouvernance \#V
 
 ## ❓ Enjeux
 
-* Nous souhaitons déterminer une gouvernance démocratique assurant la participation de toutes les parties prenantes
+* Nous souhaitons mettre en place une gouvernance démocratique assurant la participation de toutes les parties prenantes
 
 ## 🎯 Objectifs
 

@@ -1,8 +1,8 @@
-# Repenser le rôle de l’organisation au sein de la communauté \#
+# Repenser le rôle de l’organisation au sein de la communauté \#V
 
 ## ❓ Enjeux
 
-* Nous voulons être sûrs que le projet existe et se pérennise indépendamment de l'organisation \(collectivité/administration, etc.\) qui l'a impulsée
+* Nous voulons être sûrs que le projet existe et se pérennise indépendamment de l'organisation \(collectivité/administration, etc.\) qui l'a impulsé
 
 ## 🎯 Objectifs
 

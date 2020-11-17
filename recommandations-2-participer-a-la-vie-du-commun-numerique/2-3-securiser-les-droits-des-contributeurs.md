@@ -1,8 +1,8 @@
-# Sécuriser les droits des contributeurs \#
+# Sécuriser les droits des contributeurs \#V
 
 ## ❓ Enjeux
 
-* S’assurer que les contributeurs sont titulaires des droits d’auteur sur leurs contributions, et peuvent donc les verser au commun
+* Nous voulons nous assurer que les contributeurs sont titulaires des droits d’auteur sur leurs contributions, et peuvent donc les verser au commun
 
 ## 🎯 Objectifs
 
@@ -21,6 +21,6 @@ Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du 
 ## 💡 Ressources utiles
 
 * Note Juridique V&G \(préciser quelles sections\)
-* Politique de contribution aux logiciels open source
+* [Politique de contribution aux logiciels open source](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/)
 * [https://en.wikipedia.org/wiki/Contributor\_License\_Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)
 

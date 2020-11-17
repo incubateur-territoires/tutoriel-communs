@@ -1,8 +1,8 @@
-# Documenter ce qui a été fait \#
+# Documenter ce qui a été fait \#V
 
 ## ❓ Enjeux
 
-* Nous souhaitons que n'importe qui puisse facilement retrouver l'information qu'il recherche concernant le commun ;
+* Nous voulons que n'importe qui puisse facilement retrouver l'information qu'il recherche concernant le commun ;
 * Nous souhaitons que la base de connaissance du commun puisse alimenter les actions de tous et être alimentée par tous ;
 
 ## 🎯 Objectifs

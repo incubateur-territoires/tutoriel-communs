@@ -1,6 +1,6 @@
-# Participer à la vie du commun numérique \#
+# Participer à la vie du commun numérique \#V
 
-Après avoir rassemblé les parties prenantes autour d'une première définition du commun à produire, je vise désormais, en collaboration avec chacune, à développer et structurer la communauté, mais également à mieux encadrer les contributions au projet. De cette façon, nous cherchons à optimiser son développement et envisager la définition d'un modèle économique pérenne permettant au commun d'être financièrement indépendant.
+Après avoir rassemblé les parties prenantes autour d'une première définition du commun à produire, je vise désormais, en collaboration avec chacune, à développer et structurer la communauté, mais également à mieux encadrer les contributions au projet. De cette façon, nous cherchons à optimiser son développement et à envisager la définition d'un modèle économique pérenne permettant au commun d'être financièrement indépendant.
 
 Ma checklist :
 

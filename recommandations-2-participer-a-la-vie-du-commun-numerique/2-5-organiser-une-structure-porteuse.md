@@ -1,9 +1,9 @@
-# Organiser une structure porteuse \#
+# Organiser une structure porteuse \#V
 
 ## ❓ Enjeux
 
 * Nous voulons assurer la pérennité de la communauté
-* Nous voulons doter la communauté d’une personnalité juridique \(pouvant recevoir des financements\)
+* Nous souhaitons doter la communauté d’une personnalité juridique \(pouvant recevoir des financements\)
 * Nous voulons sanctuariser la gouvernance via les statuts
 
 ## 🎯 Objectifs

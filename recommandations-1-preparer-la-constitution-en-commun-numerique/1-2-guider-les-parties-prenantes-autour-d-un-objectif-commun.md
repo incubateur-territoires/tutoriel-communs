@@ -1,4 +1,4 @@
-# Guider les parties prenantes autour d’un objectif commun \#
+# Guider les parties prenantes autour d’un objectif commun \#V
 
 ## ❓ Enjeux
 
@@ -23,5 +23,5 @@ Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du 
 
 ## 💡 Ressources utiles
 
-* Tutoriel aux communs numériques – Pérenniser
+* [Tutoriel aux communs numériques – Pérenniser](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/~/drafts/-MMKI_VcGDe-TtiU1bgk/tutoriel/04-perenniser)
 
