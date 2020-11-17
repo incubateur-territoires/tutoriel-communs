@@ -25,6 +25,7 @@
   * [5. Financer](tutoriel/05-financer.md)
   * [Préambule](tutoriel/00-preface.md)
 * [Ressources](ressources/README.md)
+  * [Glossaire](ressources/glossary.md)
   * [Argumenter pour disséminer les communs](ressources/argumentaires-type-pour-disseminer-les-communs/README.md)
     * [Argumentaire à destination d’un.e citoyen.e non familier.ère avec les communs numériques](ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-citoyen.e-non-familier.ere-avec-les-communs-numeriques.md)
     * [Argumentaire à destination d’un.e influenceur.euse spécialisée sur les mouvements alternatifs](ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-influenceur.euse-specialisee-sur-les-mouvements-alternatifs.md)
@@ -45,6 +46,5 @@
   * [Formaliser et organiser les contributions](ressources/formaliser-et-organiser-les-contributions.md)
   * [Définir le cadre de collaboration d’un projet](ressources/definir-le-cadre-de-collaboration-dun-projet.md)
   * [Financer un projet de commun](ressources/financer-un-projet-de-commun.md)
-* [Glossaire](glossary.md)
 * [Comment contribuer ?](comment-contribuer.md)
 
