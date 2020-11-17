@@ -1,13 +1,11 @@
 # Participer à la vie du commun numérique \#V
 
-Après avoir rassemblé les parties prenantes autour d'une première définition du commun à produire, je vise désormais, en collaboration avec chacune, à développer et structurer la communauté, mais également à mieux encadrer les contributions au projet. De cette façon, nous cherchons à optimiser son développement et à envisager la définition d'un modèle économique pérenne permettant au commun d'être financièrement indépendant.
+Un commun est une ressource en permanente évolution, et dont le développement va dépendre du dynamisme de sa communauté et de la solidité de ses fondements juridiques. C'est pourquoi, tout au long de la vie du commun, il est nécessaire de :
 
-Ma checklist :
-
-* [ ] [Développer la communauté](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-2-participer-a-la-vie-du-commun-numerique/2-1-developper-la-communaute)
-* [ ] [Animer la communauté](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-2-participer-a-la-vie-du-commun-numerique/2-2-animer-la-communaute)
-* [ ] [Sécuriser les droits des contributeurs](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-2-participer-a-la-vie-du-commun-numerique/2-3-securiser-les-droits-des-contributeurs)
-* [ ] [Définir une gouvernance](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-2-participer-a-la-vie-du-commun-numerique/2-4-definir-une-gouvernance)
-* [ ] [Organiser une structure porteuse](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-2-participer-a-la-vie-du-commun-numerique/2-5-organiser-une-structure-porteuse)
-* [ ] [Définir un modèle économique pérenne](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-2-participer-a-la-vie-du-commun-numerique/2-6-definir-un-modele-economique-perenne)
+* [ ] [Développer la communauté](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-2-participer-a-la-vie-du-commun-numerique/2-1-developper-la-communaute) \(afin notamment de faire bénéficier la ressource d'une diversité de profils cotributeurs\)
+* [ ] [Animer la communauté](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-2-participer-a-la-vie-du-commun-numerique/2-2-animer-la-communaute) \(de façon à favoriser les échanges entre membres et potentialiser les développements\)
+* [ ] [Sécuriser les droits des contributeurs](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-2-participer-a-la-vie-du-commun-numerique/2-3-securiser-les-droits-des-contributeurs) \(afin de garantir l'ouverture de la ressource et faciliter sa réutilisation\)
+* [ ] [Définir une gouvernance](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-2-participer-a-la-vie-du-commun-numerique/2-4-definir-une-gouvernance) \(de manière à coordonner les efforts de développement\)
+* [ ] [Organiser une structure porteuse](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-2-participer-a-la-vie-du-commun-numerique/2-5-organiser-une-structure-porteuse) \(afin de solidifier la communauté\)
+* [ ] [Définir un modèle économique pérenne](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-2-participer-a-la-vie-du-commun-numerique/2-6-definir-un-modele-economique-perenne) \(de façon à permettre l'autonomie du commun\)
 
