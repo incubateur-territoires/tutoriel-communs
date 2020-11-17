@@ -16,3 +16,6 @@ Vous souhaitez développer un projet de commun numérique ? Vous êtes dans une 
 
 **Besoin de ressources clé en main** ? D'autres sont déjà passés par là, et ont partagé leurs outils et \(bonnes\) pratiques que vous trouverez dans la section [ressources ](ressources/).
 
+{% hint style="info" %}
+Les recommandations comme le tutoriel sont des communs numériques, ouverts à tous, afin que chacun puisse réutiliser le contenu proposé comme bon lui semble ; mais également l'augmenter des bonnes pratiques et retours de son expérience. Pour se faire, c'est simple : créez un compte Gitbook, commentez les contenus et tenez-nous au courant de vos travaux !
+{% endhint %}
