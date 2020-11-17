@@ -2,7 +2,7 @@
 description: Liens vers les sous-parties -> 404
 ---
 
-# Préparer la constitution en commun numérique \#V
+# Préfigurer la constitution en commun numérique \#V
 
 Dans un premier temps, je m'assure qu’il n’existe pas déjà un projet permettant de répondre à la problématique adressée. Si ce n'est pas le cas, je formalise un premier projet de commun répondant à mon besoin \(fonctionnalités, modalités d’ouverture\), puis je réunis autour de cette première proposition les parties prenantes potentielles afin de les impliquer le plus en amont possible de la démarche et de faire évoluer et coconstruire le projet dans un cadre collectif.
 
