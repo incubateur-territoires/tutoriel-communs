@@ -10,7 +10,7 @@ L'objectif est donc de mettre en place un cadre minimal de collaboration et de g
 
 Ma checklist :
 
-* [ ] [Cibler le besoin et son environnement](https://github.com/incubateur-territoires/tutoriel-communs/tree/3013883386afb32c2faf395cf1921ecb467d1f86/recommandations-1-preparer-la-constitution-en-commun-numerique/1.1%20Cibler%20le%20besoin%20et%20son%20environnement.md)
-* [ ] [Guider les parties prenantes autour d'un objectif commun](https://github.com/incubateur-territoires/tutoriel-communs/tree/3013883386afb32c2faf395cf1921ecb467d1f86/recommandations-1-preparer-la-constitution-en-commun-numerique/1.2%20Guider%20les%20parties%20prenantes%20autour%20d’un%20objectif%20commun.md)
+* [ ] [Cibler le besoin et son environnement](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-1-preparer-la-constitution-en-commun-numerique/1-1-cibler-le-besoin-et-son-environnement)
+* [ ] [Guider les parties prenantes autour d'un objectif commun](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/~/drafts/-MMKa-PhJPUEUzuMlu4C/recommandations-1-preparer-la-constitution-en-commun-numerique/1-2-guider-les-parties-prenantes-autour-d-un-objectif-commun)
 * [ ] [Clarifier le statut des contributions passées, présentes et futures](https://github.com/incubateur-territoires/tutoriel-communs/tree/3013883386afb32c2faf395cf1921ecb467d1f86/recommandations-1-preparer-la-constitution-en-commun-numerique/1.3%20Clarifier%20le%20statut%20des%20contributions%20passées,%20présentes%20et%20futures.md)
 
