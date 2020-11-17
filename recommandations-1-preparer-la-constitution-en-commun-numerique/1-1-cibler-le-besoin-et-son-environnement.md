@@ -26,7 +26,8 @@ description: Clarifier son besoin et le confronter aux démarches existantes.
 
 #### 💡 Ressources utiles
 
-* Data.gouv.fr \(bases de données\) ; code.etalab.gouv.fr \(code source logiciel\)
+* [Moteur de recherche Data.gouv.fr](https://www.data.gouv.fr/fr/datasets/) \(bases de données open data des administrations\) 
+* [Annuaire de logiciels Open Source publics code.etalab.gouv.fr](https://code.etalab.gouv.fr/) \(Codes sources du secteur public\)
 * Tutoriel aux communs numériques - Section [comprendre](../tutoriel/01-comprendre.md) et [Disséminer](../tutoriel/06-disseminer.md) »
 * Ressource « [Argumentaire à destination d'un.e élu.e](../ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-elu.e.md) »
 
