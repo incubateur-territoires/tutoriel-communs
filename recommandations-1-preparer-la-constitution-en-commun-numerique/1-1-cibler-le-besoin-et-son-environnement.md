@@ -21,7 +21,7 @@ description: Clarifier son besoin et le confronter aux démarches existantes.
 #### 📑 Actions clés
 
 * [ ] A1. Formaliser les caractéristiques principales de mon projet
-* [ ] A2. Cartographier les acteurs concernés et les ressources existantes mobilisables
+* [ ] A2. Cartographier les acteurs concernés et les ressources existantes mobilisables pour répondre à mon besoin
 * [ ] A3. Informer en interne de la volonté d'initier ou rejoindre une démarche de commun numérique
 
 #### 💡 Ressources utiles

@@ -47,5 +47,5 @@
   * [Financer un projet de commun](ressources/financer-un-projet-de-commun.md)
 * [Comment contribuer ?](comment-contribuer.md)
 * [Récapitulatif des actions-clés](recapitulatif-des-actions-cles.md)
-* [Glossaire](glossary.md)
+* [Glossaire](glossaire.md)
 
