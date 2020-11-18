@@ -2,8 +2,8 @@
 
 ### [Préfigurer la constitution en commun numérique](recommandations-1-preparer-la-constitution-en-commun-numerique/)
 
-* [ ] A1. Formaliser les caractéristiques principales de mon projet
-* [ ] A2. Cartographier les acteurs concernés et les ressources existantes mobilisables **pour le besoin**
+* [ ] A1. Formaliser les **caractéristiques principales** de mon projet
+* [ ] A2. Cartographier les acteurs concernés et les ressources existantes mobilisables **pour répondre à mon besoin**
 * [ ] A3. Informer en interne de la volonté d'initier ou rejoindre une démarche de commun numérique
 * [ ] A.4 Lister de façon collaborative les objectifs, valeurs, freins et leviers **du projet de commun numérique**
 * [ ] A.5 Formaliser les objectifs et valeurs du **projet de commun numérique** dans un document, et veiller à son acceptation par toutes les parties prenantes
