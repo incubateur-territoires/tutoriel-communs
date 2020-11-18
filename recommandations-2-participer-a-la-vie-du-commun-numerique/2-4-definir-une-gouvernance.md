@@ -15,7 +15,10 @@
 * [ ] B.11 Solliciter et favoriser l'engagement des membres prêts à s’investir dans la gouvernance
 * [ ] B.12 Mettre en place un mode de résolution des conflits interne à la communauté
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../recapitulatif-des-actions-cles.md)
 
 ## 💡 Ressources utiles
+
+* Tutoriel aux communs numériques - Section [Maintenir & Pérenniser](../tutoriel/04-perenniser.md)
+* Ressource "[Définir le cadre de collaboration d'un projet](../ressources/definir-le-cadre-de-collaboration-dun-projet.md)"
 
