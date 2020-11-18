@@ -46,3 +46,7 @@ Une partie prenante est un acteur, individuel ou collectif, activement ou passiv
 
 ## Documentation
 
+## Projet 
+
+## Acteurs
+
