@@ -20,7 +20,6 @@ Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du 
 
 ## 💡 Ressources utiles
 
-* Note Juridique V&G \(préciser quelles sections\)
-* [Politique de contribution aux logiciels open source](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/)
+* [Politique de contribution aux logiciels libres de l’État](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/)
 * [https://en.wikipedia.org/wiki/Contributor\_License\_Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)
 
