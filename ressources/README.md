@@ -1,12 +1,27 @@
+---
+description: >-
+  Vous pouvez retrouver ici l'essentiel des ressources listées dans les fiches
+  et devant vous permettre de concrétiser au mieux les actions-clés
+---
+
 # Ressources
 
-## Can I become who I want to be?
+Vous pouvez retrouver ici l'essentiel des ressources listées dans les fiches et devant vous permettre de concrétiser au mieux les actions-clés :
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-
+* [Ouvrir une ressource numérique](ouvrir-lune-de-nos-ressources-numeriques/)
+  * [Capacité à ouvrir la ressource](produire-des-communs/contribuer-a-un-commun-existant/checklist-1-3-ma-capacite-a-contribuer.md)
+  * [Intérêt à ouvrir la ressource](produire-des-communs/contribuer-a-un-commun-existant/checklist-2-3-mon-interet-a-contribuer.md)
+  * [Intérêt pour l’écosystème](ouvrir-lune-de-nos-ressources-numeriques/checklist-3-3-cette-ouverture-a-de-linteret-pour-lecosysteme.md)
+* [Produire des communs numériques](produire-des-communs/)
+  * [Contribuer à un commun existant](produire-des-communs/contribuer-a-un-commun-existant/)
+  * [Développer la ressource : besoins et réponses](produire-des-communs/developper-la-ressource-besoins-and-reponses.md)
+* [Favoriser la pérennité du commun numérique](favoriser-la-perennite-dun-commun/)
+* [Formaliser et organiser les contributions au commun numérique](formaliser-et-organiser-les-contributions.md)
+* [Définir le cadre de collaboration](definir-le-cadre-de-collaboration-dun-projet.md)
+* [Financer un projet de commun numérique](financer-un-projet-de-commun.md)
+* [Argumenter pour disséminer le commun numérique](argumentaires-type-pour-disseminer-les-communs/)
+  * [Face à un.e citoyen.ne non familier.ère des communs](argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-citoyen.e-non-familier.ere-avec-les-communs-numeriques.md)
+  * [Face à un.e influenceur.euse spécialisé.e sur les mouvements alternatifs](argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-influenceur.euse-specialisee-sur-les-mouvements-alternatifs.md)
+  * [Face à un.e responsable de l'innovation d'un grand groupe](argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-responsable-de-linnovation-dans-un-grand-groupe.md)
+  * [Face à un.e élu.e](argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-elu.e.md)
 

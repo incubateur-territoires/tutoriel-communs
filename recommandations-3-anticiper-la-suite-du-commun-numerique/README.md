@@ -1,3 +1,9 @@
+---
+description: >-
+  Étape préalable au désengagement du commun numérique, de façon à assurer sa
+  pérennité une fois l'organisation qui l'a impulsée désengagée
+---
+
 # Anticiper la suite du commun numérique \#V
 
 Un commun est une ressource autonome, qui doit vivre indépendamment des membres de sa communauté, fussent-ils à l'origine de son développement. Ainsi, il est essentiel de préparer l'autonomisation du commun, notamment en travaillant à : 

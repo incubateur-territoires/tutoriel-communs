@@ -1,3 +1,10 @@
+---
+description: >-
+  Ètape de consolidation du projet de commun numérique, qui se développe tout au
+  long de la vie de ce-dernier : animation et développement de la communauté,
+  structuration juridique et économique
+---
+
 # Participer à la vie du commun numérique \#V
 
 Un commun est une ressource en permanente évolution, et dont le développement va dépendre du dynamisme de sa communauté et de la solidité de ses fondements juridiques. C'est pourquoi, tout au long de la vie du commun, il est nécessaire de :
