@@ -15,10 +15,10 @@
 * [ ] B.8 Mettre en place des bonnes pratiques en matière de contribution au commun
 * [ ] B.9 Définir et faire application les conditions supplémentaires relatives à l'acceptation des contributions au sein du commun \(accord de contribution\)
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../recapitulatif-des-actions-cles.md)
 
 ## 💡 Ressources utiles
 
 * [Politique de contribution aux logiciels libres de l’État](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/)
-* [https://en.wikipedia.org/wiki/Contributor\_License\_Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)
+* Présentation du [Contributor Licence Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)
 
