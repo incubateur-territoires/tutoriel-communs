@@ -6,7 +6,11 @@ description: Retrouvez ici tous les termes utilisés dans cet espace de document
 
 ## Commun numérique
 
+Un commun désigne une ressource produite et/ou entretenue collectivement par une communauté d’acteurs hétérogènes, et gouvernée démocratiquement selon des règles qui lui assurent son caractère collectif et partagé. Il est dit numérique lorsque la ressource est elle-même numérique. 
+
 ## Ressource numérique
+
+Une ressource numérique est un contenu dématérialisé tel qu'un logiciel, un son, une base de donnée, etc. qui peut être dupliqué sur une infinité de supports physiques. 
 
 ## Partie-prenante
 
