@@ -15,7 +15,7 @@
 ### [Participer à la vie du commun numérique](recommandations-2-participer-a-la-vie-du-commun-numerique/)
 
 * [ ] B.1 Définir une communication **fédératrice** autour du **commun numérique**
-* [ ] B.2 **Organiser** un processus permettant **de répondre et d'intéragir face** aux sollicitations externes
+* [ ] B.2 **Organiser** un processus permettant **de répondre et d’interagir face** aux sollicitations externes
 * [ ] B.3 Mettre en place un protocole d'**accueil et d’embarquement des nouveaux membres**
 * [ ] B.4 **Définir les contributeurs cibles, les outils et méthodes permettant d'accueillir efficacement leur contribution au commun**
 * [ ] **B.5 Organiser des temps d’échanges réguliers et inclusifs au sein de la communauté**
@@ -23,19 +23,19 @@
 * [ ] **B.7 Valider régulièrement le statut juridique des contributions en fonction des typologies et contextes de contributions**
 * [ ] **B.8 Mettre en place des bonnes pratiques en matière de contribution au commun**
 * [ ] **B.9 Définir et faire application les conditions supplémentaires relatives à l'acceptation des contributions au sein du commun \(accord de contribution\)**
-* [ ] * [ ] B.11 **Mettre en place un processus démocratique de définition et de modification des éléments de gouvernance du commun**
-* [ ] **B.12 Solliciter et favoriser l'engagement des membres prêts à s’investir dans la gouvernance**
-* [ ] * [ ] **B.14 Mettre en place un mode de résolution des conflits interne à la communauté**
-* [ ] **B.15 Choisir la structure la plus adaptée au commun à l'aune des objectifs communs et compatibles avec les intérêts individuels des membres** 
-* [ ] **B.16 Faire évoluer la structure au fil du temps en fonction du développement du commun**
-* [ ] * [ ] **B.18 Définir les besoins de financement du commun ainsi que les sources potentielles de financement**
-* [ ] **B.19 Identifier et soutenir la valorisation du commun par les membres de la communauté**
+* [ ] B. 10 **Mettre en place un processus démocratique de définition et de modification des éléments de gouvernance du commun**
+* [ ] **B.11 Solliciter et favoriser l'engagement des membres prêts à s’investir dans la gouvernance**
+* [ ] **B.12 Mettre en place un mode de résolution des conflits interne à la communauté**
+* [ ] **B.13 Choisir la structure la plus adaptée au commun à l'aune des objectifs communs et compatibles avec les intérêts individuels des membres** 
+* [ ] **B.14 Faire évoluer la structure au fil du temps en fonction du développement du commun**
+* [ ] **B.15 Définir les besoins de financement du commun ainsi que les sources potentielles de financement**
+* [ ] **B.16 Identifier et soutenir la valorisation du commun par les membres de la communauté**
 
 ### [Anticiper la suite du commun numérique](recommandations-3-anticiper-la-suite-du-commun-numerique/)
 
 * [ ] C.1 Fixer des limitations de durée et de mandats consécutifs aux fonctions dirigeantes de la structure, de façon à assurer une diversité dans la représentation du commun
-* [ ] Faire graduellement monter en responsabilité de nouveaux membres de la communauté
-* [ ] C.2 Maintenir à jour une documentation exhaustive concernant toutes les règles et processus formalisés ou non au sein du projet 
-* [ ] C.3 Organiser une équipe en charge de répondre aux questionnements internes et externes à la communauté et maintenir la base de connaissances afférente 
-* [ ] C.4 Définir les règles relatives à la mise à jour de la documentation
+* [ ] C.2 Faire graduellement monter en responsabilité de nouveaux membres de la communauté
+* [ ] C.3 Maintenir à jour une documentation exhaustive concernant toutes les règles et processus formalisés ou non au sein du projet 
+* [ ] C.4 Organiser une équipe en charge de répondre aux questionnements internes et externes à la communauté et maintenir la base de connaissances afférente 
+* [ ] C.5 Définir les règles relatives à la mise à jour de la documentation
 
