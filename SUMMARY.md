@@ -16,7 +16,6 @@
   * [Repenser le rôle de l’organisation au sein de la communauté \#V](recommandations-3-anticiper-la-suite-du-commun-numerique/3-1-repenser-le-role-de-l-administration.md)
   * [Documenter ce qui a été fait \#V](recommandations-3-anticiper-la-suite-du-commun-numerique/3-2-documenter.md)
 * [Tutoriel \(les communs pas à pas\)](tutoriel/README.md)
-  * [Préambule](tutoriel/00-preface.md)
   * [1 - Comprendre](tutoriel/01-comprendre.md)
   * [2. Identifier](tutoriel/02-identifier.md)
   * [3. Produire](tutoriel/03-produire.md)

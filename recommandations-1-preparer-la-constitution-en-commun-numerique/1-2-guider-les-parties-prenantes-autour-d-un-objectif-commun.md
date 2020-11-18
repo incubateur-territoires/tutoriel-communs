@@ -15,9 +15,9 @@
 
 ## 📑 Actions clés
 
-1. [ ] A.4 Lister de façon collaborative les objectifs, valeurs, freins et leviers du projet
-2. [ ] A.5 Formaliser les objectifs et valeurs du projet dans un document, et veiller à son acceptation par toutes les parties prenantes
-3. [ ] A.6 Formaliser et communiquer publiquement sur l'objectif de commun et la méthodologie adoptée
+1. [ ] A.4 Lister de façon collaborative les objectifs, valeurs, freins et leviers du projet de commun numérique
+2. [ ] A.5 Formaliser les objectifs et valeurs du projet de commun numérique dans un document, et veiller à son acceptation par toutes les parties prenantes
+3. [ ] A.6 Formaliser et communiquer publiquement sur l'objectif du commun numérique et la méthodologie adoptée
 
 Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 

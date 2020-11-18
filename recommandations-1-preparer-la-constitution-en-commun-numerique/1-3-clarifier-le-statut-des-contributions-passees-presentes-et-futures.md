@@ -14,9 +14,9 @@
 
 ## 📑 Actions clés
 
-1. [ ] A.7 Évaluer collectivement l’opportunité de contribuer à une ressource existante en fonction de critères adaptés à nos besoins : moyens à disposition, importance stratégique de la ressource, etc.
-2. [ ] A.8 En cas de réutilisation de ressources existantes, s'assurer de la conformité de leur régime juridique au regard du contexte d'utilisation et des objectifs du projet. Solliciter si nécessaire une expertise sur ce sujet.
-3. [ ] A.9 Publier en ligne toutes les informations relatives à la description du projet, le cadre de collaboration et la licence du projet
+1. [ ] A.7 Évaluer collectivement l’opportunité de contribuer à une ressource existante en fonction de critères adaptés à nos besoins.
+2. [ ] A.8 En cas de réutilisation de ressources existantes, s'assurer de la conformité des régimes juridiques au regard du contexte d'utilisation et des objectifs du projet. En cas de doute, une expertise sur ce sujet.
+3. [ ] A.9 Publier en ligne toutes les informations relatives à la description, le cadre de collaboration et la licence du projet de commun numérique
 
 Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 
