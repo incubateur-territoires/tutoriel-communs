@@ -13,8 +13,9 @@
 
 ## 📑 Actions clés
 
-* [ ] B.13 Choisir la structure la plus adaptée au commun à l'aune des objectifs communs et compatibles avec les intérêts individuels des membres 
-* [ ] B.14 Faire évoluer la structure au fil du temps en fonction du développement du commun
+* [ ] B.15 Choisir la structure la plus adaptée au commun en fonction des objectifs de la communauté \(Objet lucratif ou non ; portée nationale, européenne ou internationale ; objectif de salarisation ou non ; gouvernance détaillée ou légère\).
+* [ ] B.16 Opter pour une structure souple et facilement adaptable dans un 1er temps : collectif informel, association, etc.
+* [ ] B.17 Être vigilants à la définition de l’objet de la structure dans les statuts : il doit bien sûr répondre aux exigences légales en la matière, ne pas être trop restrictif, mais également être suffisamment précis
 
 Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 

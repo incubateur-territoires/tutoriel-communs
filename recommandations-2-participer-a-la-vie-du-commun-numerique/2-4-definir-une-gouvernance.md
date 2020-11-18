@@ -11,9 +11,10 @@
 
 ## 📑 Actions clés
 
-* [ ] B.10 Mettre en place un processus démocratique de définition et de modification des éléments de gouvernance du commun
-* [ ] B.11 Solliciter et favoriser l'engagement des membres prêts à s’investir dans la gouvernance
-* [ ] B.12 Mettre en place un mode de résolution des conflits interne à la communauté
+* [ ] B.11 Mettre en place un processus démocratique de définition et de modification des grandes lignes du projet et de la communauté : gestion quotidienne, grandes orientations, etc.
+* [ ] B.12 Solliciter les membres prêts à s’investir dans la gouvernance
+* [ ] B.13 Proposer plusieurs options afin d’amorcer la discussion entre tous les membres
+* [ ] B.14 Mettre en place un mode de résolution des conflits
 
 Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 

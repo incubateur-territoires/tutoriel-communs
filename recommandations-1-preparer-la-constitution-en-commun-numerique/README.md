@@ -1,14 +1,16 @@
 ---
-description: >-
-  Étape de préfiguration, préalable au lancement de tout projet de commun
-  numérique : état des lieux, concertation et anticipation.
+description: Liens vers les sous-parties -> 404
 ---
 
-# Préfigurer la constitution en commun numérique \#V&
+# Préparer la constitution en commun numérique \#V
 
-Les communs résultent de la rencontre d'acteurs divers autour d'un besoin collectif. Ainsi et pour respecter l'esprit d'un projet collaboratif, plusieurs actions doivent être menées afin de :
+Dans un premier temps, je m'assure qu’il n’existe pas déjà un projet permettant de répondre à la problématique adressée. Si ce n'est pas le cas, je formalise un premier projet de commun répondant à mon besoin \(fonctionnalités, modalités d’ouverture\), puis je réunis autour de cette première proposition les parties prenantes potentielles afin de les impliquer le plus en amont possible de la démarche et de faire évoluer et coconstruire le projet dans un cadre collectif.
 
-* [ ] [Cibler le besoin et son environnement](1-1-cibler-le-besoin-et-son-environnement.md) \(afin notamment d'évaluer la pertinence de communs préexistants\) ;
-* [ ] [Guider les parties prenantes autour d'un objectif commun](1-2-guider-les-parties-prenantes-autour-d-un-objectif-commun.md) \(afin d'initier une communauté autour du projet de commun\) ;
-* [ ] [Clarifier le statut des contributions passées, présentes et futures](1-3-clarifier-le-statut-des-contributions-passees-presentes-et-futures.md) \(afin de donner confiance à toutes et tous\).
+L'objectif est donc de mettre en place un cadre minimal de collaboration et de gouvernance facilitant à la fois le développement du projet de commun et de sa communauté.
+
+Ma checklist :
+
+* [ ] [Cibler le besoin et son environnement](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recommandations-1-preparer-la-constitution-en-commun-numerique/1-1-cibler-le-besoin-et-son-environnement)
+* [ ] [Guider les parties prenantes autour d'un objectif commun](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/~/drafts/-MMKa-PhJPUEUzuMlu4C/recommandations-1-preparer-la-constitution-en-commun-numerique/1-2-guider-les-parties-prenantes-autour-d-un-objectif-commun)
+* [ ] [Clarifier le statut des contributions passées, présentes et futures](https://github.com/incubateur-territoires/tutoriel-communs/tree/3013883386afb32c2faf395cf1921ecb467d1f86/recommandations-1-preparer-la-constitution-en-commun-numerique/1.3%20Clarifier%20le%20statut%20des%20contributions%20passées,%20présentes%20et%20futures.md)
 

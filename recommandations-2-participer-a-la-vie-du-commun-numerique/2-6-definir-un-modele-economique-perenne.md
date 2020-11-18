@@ -13,8 +13,8 @@
 
 ## 📑 Actions clés
 
-* [ ] B.15 Définir les besoins de financement du commun ainsi que les sources potentielles de financement
-* [ ] B.16 Identifier et soutenir la valorisation du commun par les membres de la communauté
+* [ ] B.18 Passer en revue les besoins de financement du projet, et les financeurs susceptibles d’y répondre
+* [ ] B.19 Identifier les différents moyens de valoriser le projet : support, formation, services annexes
 
 Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 

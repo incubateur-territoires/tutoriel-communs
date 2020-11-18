@@ -12,19 +12,17 @@
 
 ## 📑 Actions clés
 
-* [ ] B.1 Définir une communication fédératrice autour du projet de commun numérique
-* [ ] B.2 Organiser un processus permettant de répondre et d'intéragir face aux sollicitations externes
-* [ ] B.3 Mettre en place un protocole d'accueil et d’embarquement des nouveaux membres
-* [ ] B.4 Définir les contributeurs cibles, les outils et méthodes permettant d'accueillir efficacement leur contribution au commun
+* [ ] B.1 Définir une communication autour du projet : identité visuelle, logo, présence sur les réseaux sociaux
+* [ ] B.2 Établir un process permettant de s’assurer de répondre aux sollicitations externes \(mails, etc.\)
+* [ ] B.3 Mettre en place un protocole d’embarquement des nouveaux membres articulant mobilisation humaine et documentation précise \(présentation de la charte à signer avant de rejoindre le projet ; explication des process d’utilisation et de contribution à la ressource ; présentation des outils utilisés\)
+* [ ] B.4 Documenter les bonnes pratiques dans un wiki, y joindre les informations essentielles \(comment faire telle tâche, où trouver telle ressource, à qui s’adresser pour telle demande\)
 
 Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 
 ## 💡 Ressources utiles
 
 * [https://fr.wikipedia.org/wiki/MediaWiki](https://fr.wikipedia.org/wiki/MediaWiki)
-* Tutoriel - Produire
+* Tutoriel - Contribuer
 * Exemples de charte : Fédération Open Space Makers
 * Fiche [Développer la ressource : besoins & réponses](../ressources/produire-des-communs/developper-la-ressource-besoins-and-reponses.md)
-
-
 
