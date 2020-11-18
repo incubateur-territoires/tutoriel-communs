@@ -16,9 +16,9 @@
 * [ ] B.15 Définir les besoins de financement du commun ainsi que les sources potentielles de financement
 * [ ] B.16 Identifier et soutenir la valorisation du commun par les membres de la communauté
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../recapitulatif-des-actions-cles.md)
 
 ## 💡 Ressources utiles
 
-* [Tutoriel aux communs numériques - Financer](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/~/drafts/-MMKI_VcGDe-TtiU1bgk/tutoriel/05-financer)
+* Tutoriel aux communs numériques - Section [Financer](../tutoriel/05-financer.md)
 

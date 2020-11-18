@@ -16,9 +16,10 @@
 * [ ] B.13 Choisir la structure la plus adaptée au commun à l'aune des objectifs communs et compatibles avec les intérêts individuels des membres 
 * [ ] B.14 Faire évoluer la structure au fil du temps en fonction du développement du commun
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../recapitulatif-des-actions-cles.md)
 
 ## 💡 Ressources utiles
 
-* [https://www.economie.gouv.fr/daj](https://www.economie.gouv.fr/daj)
+* Quelques exemples de [structurations juridiques possibles](https://framagit.org/inno3/tutoriel-communs-numeriques/blob/master/ressources/Exemples_StructuresJuridiques_Communs.pdf)
+* Contacter vos services internes, à défaut la [DAJ](https://www.economie.gouv.fr/apie/coordonnees) 
 
