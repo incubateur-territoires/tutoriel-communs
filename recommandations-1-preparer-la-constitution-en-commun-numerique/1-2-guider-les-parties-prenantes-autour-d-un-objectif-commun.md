@@ -19,9 +19,9 @@
 2. [ ] A.5 Formaliser les objectifs et valeurs du projet de commun numérique dans un document, et veiller à son acceptation par toutes les parties prenantes
 3. [ ] A.6 Formaliser et communiquer publiquement sur l'objectif du commun numérique et la méthodologie adoptée
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../recapitulatif-des-actions-cles.md)
 
 ## 💡 Ressources utiles
 
-* [Tutoriel aux communs numériques – Pérenniser](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/~/drafts/-MMKI_VcGDe-TtiU1bgk/tutoriel/04-perenniser)
+* Tutoriel aux communs numériques - Section [Pérenniser](../tutoriel/04-perenniser.md)
 
