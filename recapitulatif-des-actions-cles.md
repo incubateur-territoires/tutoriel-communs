@@ -18,25 +18,23 @@
 * [ ] B.2 **Organiser** un processus permettant **de répondre et d'intéragir face** aux sollicitations externes
 * [ ] B.3 Mettre en place un protocole d'**accueil et d’embarquement des nouveaux membres**
 * [ ] B.4 **Définir les contributeurs cibles, les outils et méthodes permettant d'accueillir efficacement leur contribution au commun**
-* [ ] B.5 Organiser des temps d’échanges réguliers, avec des règles assurant la possibilité pour chacun de participer \(Création et partage de l’ordre du jour à l’avance ; prise de notes et rédaction d’un compte-rendu ; désignation d’un animateur en charge de distribuer les tours de paroles et de modérer les échanges\)
-* [ ] B.6 Mettre en place des outils de travail collaboratif : messagerie instantanée, partage des documents et ressources, outils de gestion de projet.
-* [ ] B.7 Se renseigner sur les différents régimes d’attribution des droits d’auteur, selon que la contribution ait été faite bénévolement, par un fonctionnaire, un salarié, un stagiaire, etc.
-* [ ] B.8 Mettre en place des les bonnes pratiques : sensibiliser et accompagner à la mise en place et au respect de la Politique de contribution aux logiciels open source \(contribution via une adresse mail personnelle, en dehors des heures de travail, etc.\)
-* [ ] B.9 Dans le cas d’une contribution pour laquelle le contributeur est titulaire des droits, lui expliquer l’intérêt du CLA et l’encourager à y adhérer.
-* [ ] B.10 Dans le cas où les droits auraient été dévolus à l’employeur, l'encourager à adhérer au CLA, ou à défaut obtenir une licence sur les contributions afin de les intégrer au projet \(les termes de la licence doivent alors être compatibles avec la licence du projet\)
-* [ ] B.11 Nous mettons en place un processus démocratique de définition et de modification des grandes lignes du projet et de la communauté: gestion quotidienne, grandes orientations, etc.
-* [ ] B.12 Solliciter les membres prêts à s’investir dans la gouvernance
-* [ ] B.13 Proposer plusieurs options afin d’amorcer la discussion entre tous les membres
-* [ ] B.14 Mettre en place un mode de résolution des conflits
-* [ ] B.15 Choisir la structure la plus adaptée au commun en fonction des objectifs de la communauté \(Objet lucratif ou non ; Portée nationale, européenne ou internationale ; Objectif de salarisation ou non ; Gouvernance détaillée ou légère\).
-* [ ] B.16 Opter pour une structure souple et facilement adaptable dans un 1er temps : collectif informel, association, etc.
-* [ ] B.17 Être vigilants à la définition de l’objet de la structure dans les statuts : il doit bien sûr répondre aux exigences légales en la matière, ne pas être trop restrictif, mais également être suffisamment précis
-* [ ] B.18 Passer en revue les besoins de financement du projet, et les financeurs susceptibles d’y répondre
-* [ ] B.19 Identifier les différents moyens de valoriser le projet : support, formation, services annexes
+* [ ] **B.5 Organiser des temps d’échanges réguliers et inclusifs au sein de la communauté**
+* [ ] **B.6 Mettre en place des outils de travail collaboratif adaptés au besoin de la communauté**
+* [ ] **B.7 Valider régulièrement le statut juridique des contributions en fonction des typologies et contextes de contributions**
+* [ ] **B.8 Mettre en place des bonnes pratiques en matière de contribution au commun**
+* [ ] **B.9 Définir et faire application les conditions supplémentaires relatives à l'acceptation des contributions au sein du commun \(accord de contribution\)**
+* [ ] * [ ] B.11 **Mettre en place un processus démocratique de définition et de modification des éléments de gouvernance du commun**
+* [ ] **B.12 Solliciter et favoriser l'engagement des membres prêts à s’investir dans la gouvernance**
+* [ ] * [ ] **B.14 Mettre en place un mode de résolution des conflits interne à la communauté**
+* [ ] **B.15 Choisir la structure la plus adaptée au commun à l'aune des objectifs communs et compatibles avec les intérêts individuels des membres** 
+* [ ] **B.16 Faire évoluer la structure au fil du temps en fonction du développement du commun**
+* [ ] * [ ] **B.18 Définir les besoins de financement du commun ainsi que les sources potentielles de financement**
+* [ ] **B.19 Identifier et soutenir la valorisation du commun par les membres de la communauté**
 
 ### [Anticiper la suite du commun numérique](recommandations-3-anticiper-la-suite-du-commun-numerique/)
 
 * [ ] C.1 Fixer des limitations de durée et de mandats consécutifs aux fonctions dirigeantes de la structure, de façon à assurer une diversité dans la représentation du commun
+* [ ] Faire graduellement monter en responsabilité de nouveaux membres de la communauté
 * [ ] C.2 Maintenir à jour une documentation exhaustive concernant toutes les règles et processus formalisés ou non au sein du projet 
 * [ ] C.3 Organiser une équipe en charge de répondre aux questionnements internes et externes à la communauté et maintenir la base de connaissances afférente 
 * [ ] C.4 Définir les règles relatives à la mise à jour de la documentation
