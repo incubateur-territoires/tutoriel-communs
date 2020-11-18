@@ -31,5 +31,5 @@ description: Clarifier son besoin et le confronter aux démarches existantes.
 * Tutoriel aux communs numériques - Section [Comprendre](../tutoriel/01-comprendre.md) et [Disséminer](../tutoriel/06-disseminer.md) 
 * Ressource « [Argumentaire à destination d'un.e élu.e](../ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-elu.e.md) »
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../recapitulatif-des-actions-cles.md)
 
