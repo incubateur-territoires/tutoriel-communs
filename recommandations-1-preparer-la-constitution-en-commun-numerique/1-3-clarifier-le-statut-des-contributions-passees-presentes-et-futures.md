@@ -18,10 +18,11 @@
 2. [ ] A.8 En cas de réutilisation de ressources existantes, s'assurer de la conformité des régimes juridiques au regard du contexte d'utilisation et des objectifs du projet. En cas de doute, une expertise sur ce sujet.
 3. [ ] A.9 Publier en ligne toutes les informations relatives à la description, le cadre de collaboration et la licence du projet de commun numérique
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../recapitulatif-des-actions-cles.md)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](https://app.gitbook.com/@beta-gouv/s/tutoriel-lab-sonum/recapitulatif-des-actions-cles)
 
 ## 💡 Ressources utiles
 
-* [Grille d'analyse des licences libres](https://vvlibri.org/fr/licences/analysis)
-* Contacter vos services internes, à défaut la [DAJ](https://www.economie.gouv.fr/apie/coordonnees) 
+* Analyse des licences libres [https://vvlibri.org/fr/licences/analysis](https://vvlibri.org/fr/licences/analysis)
+* Contacter vos services internes, à défaut la DAJ :
+* [https://www.economie.gouv.fr/apie/coordonnees](https://www.economie.gouv.fr/apie/coordonnees)
 
