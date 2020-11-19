@@ -1,8 +1,14 @@
+---
+description: >-
+  Impliquer les parties prenantes via des temps d'échanges et des outils
+  collaboratifs
+---
+
 # Animer la communauté \#V
 
 ## ❓ Enjeux
 
-* Je souhaite assurer une participation pérenne des parties prenantes \(fidéliser les développeurs et plus globalement l'ensemble des contributeurs\)
+* Je souhaite assurer une participation pérenne des parties prenantes, fidéliser les développeurs et plus globalement l'ensemble des contributeurs
 
 ## 🎯 Objectifs
 

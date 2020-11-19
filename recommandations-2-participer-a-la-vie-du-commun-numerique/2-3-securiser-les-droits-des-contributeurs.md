@@ -1,13 +1,17 @@
+---
+description: Sécuriser juridiquement les contributions au commun numérique
+---
+
 # Sécuriser les droits des contributeurs \#V
 
 ## ❓ Enjeux
 
-* Nous voulons nous assurer que les contributeurs sont titulaires des droits d’auteur sur leurs contributions, et peuvent donc les verser au commun
+* Nous voulons nous assurer que les contributeurs soient titulaires des droits d’auteur sur leurs contributions, et puissent donc les verser au commun
 
 ## 🎯 Objectifs
 
 * Avoir une bonne maîtrise de la propriété intellectuelle liée au projet
-* Mettre en place de bonnes pratiques automatisant et favorisant la gestion de la propriété intellectuelle
+* Mettre en place de bonnes pratiques automatisant et favorisant la gestion de la propriété intellectuelle au sein du projet de commun numérique
 
 ## 📑 Actions clés
 

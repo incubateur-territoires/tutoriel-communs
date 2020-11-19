@@ -1,3 +1,9 @@
+---
+description: >-
+  Rassembler les parties prenantes et formaliser les grandes lignes du projet de
+  commun numérique
+---
+
 # Guider les parties prenantes autour d’un objectif commun \#V
 
 ## ❓ Enjeux

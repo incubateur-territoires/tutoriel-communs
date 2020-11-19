@@ -1,3 +1,7 @@
+---
+description: Consolider l'animation de la communauté
+---
+
 # Définir une gouvernance \#V
 
 ## ❓ Enjeux

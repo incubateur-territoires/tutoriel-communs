@@ -1,3 +1,9 @@
+---
+description: >-
+  Faciliter la transmission et la conservation des savoirs au sein de la
+  communauté
+---
+
 # Documenter ce qui a été fait \#V
 
 ## ❓ Enjeux
@@ -12,8 +18,8 @@
 
 ## 📑 Actions clés
 
-* [ ] C.3 Maintenir à jour une documentation exhaustive concernant toutes les règles et processus formalisés ou non au sein du projet 
-* [ ] C.4 Organiser une équipe en charge de répondre aux questionnements internes et externes à la communauté et maintenir la base de connaissances afférente 
+* [ ] C.3 Maintenir à jour une documentation exhaustive concernant toutes les règles et processus, formalisés ou non, au sein du projet 
+* [ ] C.4 Organiser une équipe en charge de répondre aux questionnements internes et externes à la communauté et de maintenir la base de connaissances afférente 
 * [ ] C.5 Définir les règles relatives à la mise à jour de la documentation
 
 Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../recapitulatif-des-actions-cles.md)

@@ -1,3 +1,7 @@
+---
+description: Assurer l'autonomie et la pérennité du commun
+---
+
 # Repenser le rôle de l’organisation au sein de la communauté \#V
 
 ## ❓ Enjeux
