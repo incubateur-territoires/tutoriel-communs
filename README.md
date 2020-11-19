@@ -14,7 +14,7 @@ Vous souhaitez développer un projet de commun numérique ? Vous êtes dans une 
 
 **Besoin d'information** ? La section [**tutoriel**](tutoriel/) est une base de connaissance collaborative qui documente, explicite et illustre les différentes faces des communs numériques, permettant de soutenir et affûter votre discours, de sensibiliser les membres de votre communauté et de votre organisation aux enjeux des communs numériques.
 
-**Besoin de ressources clé en main** ? D'autres sont déjà passés par là, et ont partagé leurs outils et \(bonnes\) pratiques que vous trouverez dans la section [ressources ](ressources/).
+**Besoin de ressources clé en main** ? D'autres sont déjà passés par là, et ont partagé leurs outils et \(bonnes\) pratiques que vous trouverez dans la section [ressources](ressources/).
 
 {% hint style="info" %}
 ​🧙 Tips : les recommandations comme le tutoriel sont des communs numériques, ouverts à tous, afin que chacun puisse réutiliser le contenu proposé comme bon lui semble ; mais également l'augmenter des bonnes pratiques et retours de son expérience. Pour ce faire, c'est simple : créez un compte Gitbook, commentez les contenus et tenez-nous au courant de vos travaux !
