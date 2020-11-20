@@ -2,7 +2,7 @@
 description: Méthodologie SpeedBoat
 ---
 
-# Définir le cadre de collaboration d’un projet
+# Fiche méthodologique : Définir le cadre de collaboration d’un projet
 
 ### Méthodologie de l'atelier SpeedBoat
 
