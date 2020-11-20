@@ -1,6 +1,6 @@
 # Ressources
 
-Vous retrouvez ici les fiches et devant vous permettre de concrétiser au mieux les recommandations :
+Vous retrouvez ici les fiches devant vous permettre de concrétiser au mieux les recommandations :
 
 * [Ouvrir une ressource numérique](ouvrir-lune-de-nos-ressources-numeriques/)
   * [Capacité à ouvrir la ressource](produire-des-communs/contribuer-a-un-commun-existant/checklist-1-3-ma-capacite-a-contribuer.md)
