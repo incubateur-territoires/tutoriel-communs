@@ -4,7 +4,7 @@ description: >-
   pérennité une fois l'organisation qui l'a impulsée désengagée
 ---
 
-# Anticiper la suite du commun numérique \#V
+# Anticiper la suite du commun numérique
 
 Un commun est une ressource autonome, qui doit vivre indépendamment des membres de sa communauté, fussent-ils à l'origine de son développement. Ainsi, il est essentiel de préparer l'autonomisation du commun, notamment en travaillant à : 
 

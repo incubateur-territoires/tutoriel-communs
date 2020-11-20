@@ -4,7 +4,7 @@ description: >-
   nouvelles parties prenantes de tout horizon au projet de commun numérique
 ---
 
-# Développer la communauté \#V
+# Développer la communauté
 
 ## ❓ Enjeux
 

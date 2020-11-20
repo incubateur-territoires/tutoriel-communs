@@ -4,7 +4,7 @@ description: >-
   communauté
 ---
 
-# Documenter ce qui a été fait \#V
+# Documenter ce qui a été fait
 
 ## ❓ Enjeux
 

@@ -4,7 +4,7 @@ description: >-
   collaboratifs
 ---
 
-# Animer la communauté \#V
+# Animer la communauté
 
 ## ❓ Enjeux
 

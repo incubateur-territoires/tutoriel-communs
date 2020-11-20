@@ -5,7 +5,7 @@ description: >-
   parties prenantes
 ---
 
-# Clarifier le statut des contributions passées, présentes et futures \#V
+# Clarifier le statut des contributions passées, présentes et futures
 
 ## ❓ Enjeux
 

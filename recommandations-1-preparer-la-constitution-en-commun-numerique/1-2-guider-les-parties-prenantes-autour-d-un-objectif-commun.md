@@ -4,7 +4,7 @@ description: >-
   commun numérique
 ---
 
-# Guider les parties prenantes autour d’un objectif commun \#V
+# Guider les parties prenantes autour d’un objectif commun
 
 ## ❓ Enjeux
 

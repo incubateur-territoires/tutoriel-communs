@@ -1,4 +1,4 @@
-# Définir un modèle économique pérenne \#V
+# Définir un modèle économique pérenne
 
 ## ❓ Enjeux
 

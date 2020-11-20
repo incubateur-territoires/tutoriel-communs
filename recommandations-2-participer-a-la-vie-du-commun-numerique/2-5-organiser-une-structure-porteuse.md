@@ -4,7 +4,7 @@ description: >-
   juridique
 ---
 
-# Organiser une structure porteuse \#V
+# Organiser une structure porteuse
 
 ## ❓ Enjeux
 

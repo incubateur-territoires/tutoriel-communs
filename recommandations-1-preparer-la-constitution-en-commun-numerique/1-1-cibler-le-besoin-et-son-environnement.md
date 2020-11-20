@@ -2,7 +2,7 @@
 description: Clarifier son besoin et le confronter aux démarches existantes.
 ---
 
-# Cibler le besoin et son environnement \#V
+# Cibler le besoin et son environnement
 
 ## Cibler le besoin et son environnement
 
