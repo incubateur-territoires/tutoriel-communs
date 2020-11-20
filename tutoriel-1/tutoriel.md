@@ -1,4 +1,4 @@
-# Tutoriel \(les communs pas à pas\)
+# Introduction
 
 Le numérique facilite la collaboration en invitant les organisations provenant de tout secteur confondu, à se rapprocher sous ce langage commun et à entrer dans une démarche d’ouverture et de collaboration, facilitée par le perfectionnement d’outils de travail collaboratif. **Toutes les organisations sont naturellement amenées à s’ouvrir vers l’extérieur afin de développer en interne des projets créés à l'extérieur, et réciproquement de valoriser à l’extérieur des projets initiés en interne**. Pour toutes ces raisons, des acteurs de secteurs très divers s'intéressent aujourd'hui de près aux modèles ouverts. Conscients qu’ils ne peuvent plus maintenir leur compétitivité en innovant seuls, ils souhaitent aborder le marché sous un angle nouveau, **faisant de l'émergence de communs une alternative viable aux logiques des acteurs dominants du numérique et un nouveau moyen d'intervention du secteur public dans la sphère numérique**.
 

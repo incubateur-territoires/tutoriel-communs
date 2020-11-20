@@ -20,5 +20,5 @@ Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du 
 
 ## 💡 Ressources utiles
 
-* Tutoriel aux communs numériques - Section [Financer](../../tutoriel/05-financer.md)
+* Tutoriel aux communs numériques - Section [Financer](../../tutoriel-1/05-financer.md)
 

@@ -28,7 +28,7 @@ Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du 
 ## 💡 Ressources utiles
 
 * [Aide à la mise en place d'un wiki \(MediaWiki\)](https://fr.wikipedia.org/wiki/MediaWiki)
-* Tutoriel aux communs numériques - Section [Produire](../../tutoriel/03-produire.md)
+* Tutoriel aux communs numériques - Section [Produire](../../tutoriel-1/03-produire.md)
 * Exemples de charte : [Fédération Open Space Makers](https://www.federation-openspacemakers.com/fr/decouvrir/charte-federation/)
 * Ressource "[Développer la ressource : besoins & réponses](../../ressources/produire-des-communs/developper-la-ressource-besoins-and-reponses.md)"
 
