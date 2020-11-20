@@ -4,7 +4,7 @@ description: >-
   numérique : état des lieux, concertation et anticipation.
 ---
 
-# Préfigurer la constitution en commun numérique
+# 1- Préfigurer la constitution en commun numérique
 
 Les communs résultent de la rencontre d'acteurs divers autour d'un besoin collectif. Ainsi et pour respecter l'esprit d'un projet collaboratif, plusieurs actions doivent être menées afin de :
 
