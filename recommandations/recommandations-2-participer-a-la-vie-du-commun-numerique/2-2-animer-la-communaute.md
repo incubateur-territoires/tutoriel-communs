@@ -24,5 +24,5 @@ Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du 
 
 ## 💡 Ressources utiles
 
-* Tutoriel aux communs numériques - Section [Produire ](../tutoriel/03-produire.md)
+* Tutoriel aux communs numériques - Section [Produire ](../../tutoriel/03-produire.md)
 

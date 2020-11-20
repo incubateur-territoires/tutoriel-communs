@@ -29,5 +29,5 @@ Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du 
 
 ## 💡 Ressources utiles
 
-* Tutoriel aux communs numériques - Section [Pérenniser](../tutoriel/04-perenniser.md)
+* Tutoriel aux communs numériques - Section [Pérenniser](../../tutoriel/04-perenniser.md)
 

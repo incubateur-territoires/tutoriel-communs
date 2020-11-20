@@ -23,6 +23,6 @@ Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du 
 
 ## 💡 Ressources utiles
 
-* Tutoriel aux communs numériques - Section [Maintenir & Pérenniser](../tutoriel/04-perenniser.md)
-* Ressource "[Définir le cadre de collaboration d'un projet](../ressources/definir-le-cadre-de-collaboration-dun-projet.md)"
+* Tutoriel aux communs numériques - Section [Maintenir & Pérenniser](../../tutoriel/04-perenniser.md)
+* Ressource "[Définir le cadre de collaboration d'un projet](../../ressources/definir-le-cadre-de-collaboration-dun-projet.md)"
 
