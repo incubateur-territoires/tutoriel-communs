@@ -1,3 +1,9 @@
+---
+description: >-
+  Fiche à remplir par un agent souhaitant mettre à disposition une ressource de
+  l'administration.
+---
+
 # Checklist 1/3 : Notre capacité à ouvrir cette ressource
 
 * [ ] J’ai les moyens matériels et financiers d’assurer l’ouverture et la maintenance du commun 
