@@ -1,9 +1,3 @@
----
-description: >-
-  Vous pouvez retrouver ici l'essentiel des ressources listées dans les fiches
-  et devant vous permettre de concrétiser au mieux les actions-clés
----
-
 # Ressources
 
 Vous retrouvez ici les fiches et devant vous permettre de concrétiser au mieux les recommandations :
