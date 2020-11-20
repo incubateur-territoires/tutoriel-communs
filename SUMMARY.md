@@ -18,7 +18,7 @@
     * [Documenter ce qui a été fait](recommandations/recommandations-3-anticiper-la-suite-du-commun-numerique/3-2-documenter.md)
   * [Récapitulatif des actions-clés](recommandations/recapitulatif-des-actions-cles.md)
 * [Ressources](ressources/README.md)
-  * [Ouvrir l'une de nos ressources numériques](ressources/ouvrir-lune-de-nos-ressources-numeriques/README.md)
+  * [Ouvrir une ressource numérique](ressources/ouvrir-lune-de-nos-ressources-numeriques/README.md)
     * [Checklist 1/3 : Notre capacité à ouvrir cette ressource](ressources/ouvrir-lune-de-nos-ressources-numeriques/checklist-1-3-notre-capacite-a-ouvrir-cette-ressource.md)
     * [Checklist 2/3 : Notre intérêt à ouvrir cette ressource](ressources/ouvrir-lune-de-nos-ressources-numeriques/checklist-2-3-notre-interet-a-ouvrir-cette-ressource.md)
     * [Checklist 3/3 : Cette ouverture a de l'intérêt pour l'écosystème](ressources/ouvrir-lune-de-nos-ressources-numeriques/checklist-3-3-cette-ouverture-a-de-linteret-pour-lecosysteme.md)

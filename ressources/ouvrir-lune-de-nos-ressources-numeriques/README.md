@@ -1,4 +1,4 @@
-# Ouvrir l'une de nos ressources numériques
+# Ouvrir une ressource numérique
 
 A travers trois séries de questions, cette grille aide à déterminer l’opportunité d’ouvrir une ressource numérique afin d’en faire un commun. Elle peut également servir soit à identifier les pistes d’actions visant à rendre possible cette ouverture, soit à optimiser cette dernière.
 
