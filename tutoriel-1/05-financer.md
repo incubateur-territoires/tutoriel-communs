@@ -2,7 +2,7 @@
 
 ## 5.1. Quand est-il pertinent de financer le développement d'un commun & que faut-il financer ?
 
-Que la pérennité du commun repose sur la définition d’un modèle économique \(cf. [4.5 Faut-il associer un modèle économique au commun numérique ?](https://vbachelet.frama.io/tutoriel-communs-numeriques/02-Tutoriel/#45-faut-il-associer-un-modele-economique-au-commun-numerique)\) ou non, il y aura toujours un certain nombre de financements à assurer : directement par l’organisation conçue pour soutenir le commun, ou indirectement, grâce aux contributeurs du commun numérique.
+Que la pérennité du commun repose sur la définition d’un modèle économique \(cf. [4.5 Faut-il associer un modèle économique au commun numérique ?](04-perenniser.md#4-5-faut-il-associer-un-modele-economique-au-commun-numerique)\) ou non, il y aura toujours un certain nombre de financements à assurer : directement par l’organisation conçue pour soutenir le commun, ou indirectement, grâce aux contributeurs du commun numérique.
 
 Les possibilités de financements externes du projet, si elles doivent être mûrement réfléchies afin de participer à renforcer ce commun numérique et non à le faire vivre artificiellement, gagnent à être connues et maîtrisées.
 
@@ -10,7 +10,7 @@ De tels financements doivent enfin être strictement limités aux besoins réels
 
 **Ressources**
 
-[Liste des besoins de financement et dispositifs associés](https://framagit.org/inno3/tutoriel-communs-numeriques/blob/master/referentiels/4_Panorama_FinancementsActeursModalites.ods) : référentiel coconstruit listant les besoins de financement d’un commun numérique et des dispositifs existants, par typologie de financeurs et de besoins._\*_
+[Liste des besoins de financement et dispositifs associés](../ressources/) : référentiel coconstruit listant les besoins de financement d’un commun numérique et des dispositifs existants, par typologie de financeurs et de besoins.
 
 ## 5.2. Comment gérer les financements externes soutenant la production du commun ?
 
@@ -20,7 +20,7 @@ D’un point de vue du commun numérique, il est opportun d’anticiper les diff
 
 **Ressources**
 
-Pour aller plus loin, vous pouvez consulter une synthèse des présentations liées au financement des communs [ici](https://vbachelet.frama.io/tutoriel-communs-numeriques/Pre-Atelier-04/)
+Pour aller plus loin, vous pouvez consulter une synthèse des présentations liées au financement des communs [ici](05-financer.md)
 
 ## 5.3. Existe-t-il des dispositifs de mutualisation à destination des communs ?
 
@@ -34,7 +34,7 @@ Toutefois, l’émergence croissante de fonds de dotation pourra à terme permet
 
 ### 6.1. Pourquoi disséminer un commun numérique au-delà de sa communauté initiale ?
 
-La pérennité du commun repose notamment sur la communauté qui le compose. Dans le domaine numérique, un tel objectif passe en premier lieu par l’augmentation du nombre d’utilisateurs. En effet, la démultiplication des utilisateurs ne réduit par la valeur ni même l’usage du commun numérique \(cf. [1.1.1 Comment se caractérise un commun numérique ?](https://vbachelet.frama.io/tutoriel-communs-numeriques/02-Tutoriel/#11-quand-parle-t-on-de-communs-numeriques)\) mais favorise au contraire l’accroissement du nombre de contributeurs finaux.
+La pérennité du commun repose notamment sur la communauté qui le compose. Dans le domaine numérique, un tel objectif passe en premier lieu par l’augmentation du nombre d’utilisateurs. En effet, la démultiplication des utilisateurs ne réduit par la valeur ni même l’usage du commun numérique \(cf. [1.1.1 Comment se caractérise un commun numérique ?](01-comprendre.md#1-1-1-comment-se-caracterise-un-commun-numerique)\) mais favorise au contraire l’accroissement du nombre de contributeurs finaux.
 
 La dissémination doit aussi viser, au-delà du nombre, à enrichir la communauté des utilisateurs de personnes aux profils différents. Cette diversité permet d’éviter l’entre-soi, de renforcer le caractère générique du commun numérique et, ce faisant, d’ouvrir les champs d’application potentiels.
 
@@ -46,5 +46,5 @@ Selon les cibles, une telle communication devra mettre en avant la finalité du 
 
 Dans une approche collaborative, il peut être intéressant de prévoir des ressources prêtes à l’emploi et accessibles à tous au niveau du projet afin que tous les contributeurs puissent participer à cette dissémination du projet sans dénaturer l’image du projet. Dans le même esprit, l’aspect ouvert du commun amène à diffuser ces mêmes supports au-delà de la communauté afin que quiconque souhaite s’informer ou communiquer sur le projet dispose des éléments appropriés pour le faire.
 
-**Ressources** ![Argumentaire](../.gitbook/assets/5_Argumentaires_DisseminationCommuns-1.png) Vous pourrez retrouver cet argumentaire ainsi que d'autres à destination de publics différents sur notre framagit : [Liste d’argumentaires](https://framagit.org/inno3/tutoriel-communs-numeriques/blob/master/referentiels/5_Argumentaires_DisseminationCommuns.pdf). Chaque argumentaire constitue un référentiel coconstruit listant les besoins un certain nombre d’arguments susceptibles d’être mis en avant afin de communiquer sur le caractère particulier du commun et les avantages associés.
+**Ressources** ![Argumentaire](../.gitbook/assets/5_Argumentaires_DisseminationCommuns-1.png) Vous pourrez retrouver cet argumentaire ainsi que d'autres à destination de publics différents sur notre framagit : [Liste d’argumentaires](../ressources/argumentaires-type-pour-disseminer-les-communs/). Chaque argumentaire constitue un référentiel coconstruit listant les besoins un certain nombre d’arguments susceptibles d’être mis en avant afin de communiquer sur le caractère particulier du commun et les avantages associés.
 
