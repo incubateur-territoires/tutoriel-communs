@@ -1,7 +1,7 @@
 ---
 description: >-
-  Fiche à remplir par un agent souhaitant mettre à disposition une ressource de
-  l'administration.
+  Fiche à remplir par une personne souhaitant mettre à disposition une ressource
+  de son organisation.
 ---
 
 # Checklist 1/3 : Notre capacité à ouvrir cette ressource
