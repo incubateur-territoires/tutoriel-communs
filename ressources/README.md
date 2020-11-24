@@ -2,9 +2,12 @@
 
 Vous retrouvez ici les fiches devant vous permettre de concrétiser au mieux les recommandations :
 
-* [Capacité à ouvrir la ressource](produire-des-communs/contribuer-a-un-commun-existant/checklist-1-3-ma-capacite-a-contribuer.md)
+{% page-ref page="checklist-1-3-notre-capacite-a-ouvrir-cette-ressource.md" %}
+
+
+
 * [Intérêt à ouvrir la ressource](produire-des-communs/contribuer-a-un-commun-existant/checklist-2-3-mon-interet-a-contribuer.md)
-* [Intérêt pour l’écosystème](checklist-3-3-cette-ouverture-a-de-linteret-pour-lecosysteme.md)
+* [Intérêt pour l’écosystème]()
 * [Contribuer à un commun existant](produire-des-communs/contribuer-a-un-commun-existant/)
 * [Développer la ressource : besoins et réponses](produire-des-communs/developper-la-ressource-besoins-and-reponses.md)
 * F[ormaliser et organiser les contributions au commun numérique](formaliser-et-organiser-les-contributions.md)

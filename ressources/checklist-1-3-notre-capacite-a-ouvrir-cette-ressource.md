@@ -6,7 +6,7 @@ description: >-
 
 # Matrice de décision pour ouvrir une ressource sous forme de commun
 
-# Checklist 1/3 : Notre capacité à ouvrir cette ressource
+## Checklist 1/3 : Notre capacité à ouvrir cette ressource
 
 * [ ] J’ai les moyens matériels et financiers d’assurer l’ouverture et la maintenance du commun 
 
@@ -38,7 +38,7 @@ Comme toute ressource immatérielle, les communs numériques sont sujets à des 
 Dans le cadre d’une démarche constructive et bienveillance, la collaboration autour d’un commun numérique induit de confronter ses idées et contributions au regard et à la critique des pairs que sont les autres contributeur.ice.s.
 {% endhint %}
 
-# Checklist 2/3 : Notre intérêt à ouvrir cette ressource
+## Checklist 2/3 : Notre intérêt à ouvrir cette ressource
 
 * [ ] Je peux rattacher l’ouverture de cette ressource à une stratégie de mon organisation
 
@@ -64,7 +64,7 @@ Il peut s’agir d’une mutualisation de la production d’une ressource, de so
 Les communs numériques invitent à un usage propre des ressources par chaque contributeur.ice ou membre de la communauté, ils permettent aussi à des acteurs économiques d’en faire un usage commercial. Dans cette hypothèse, seuls ces tiers seront responsables vis-à-vis de leurs utilisateurs/clients.
 {% endhint %}
 
-# Checklist 3/3 : Cette ouverture a de l'intérêt pour l'écosystème
+## Checklist 3/3 : Cette ouverture a de l'intérêt pour l'écosystème
 
 * [ ] Ma ressource est susceptible de favoriser l’innovation du secteur 
 
@@ -99,3 +99,4 @@ Il est nécessaire que la ressource soit ouverte de telle sorte à permettre des
 {% hint style="info" %}
 Source : Atelier \#1 "Identifier des communs", Lab SoNum x Inno³, 2019
 {% endhint %}
+

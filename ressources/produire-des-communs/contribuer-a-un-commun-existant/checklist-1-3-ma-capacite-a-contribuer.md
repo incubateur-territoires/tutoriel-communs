@@ -1,10 +1,10 @@
 ---
 description: >-
-  Fiche à remplir par une personne souhaitant évaluer l'intérêt d'une contribution à un commun existant.
+  Fiche à remplir par une personne souhaitant évaluer l'intérêt d'une
+  contribution à un commun existant.
 ---
 
-
-# Matrice de décision pour contribuer à un commun
+# Checklist 1/3 : Ma capacité à contribuer
 
 ## Checklist 1/3 : Ma capacité à contribuer
 
@@ -99,5 +99,4 @@ lI s’agit ici des éléments de gouvernance mis en place par la communauté af
 {% hint style="info" %}
 Source : Atelier \#1 "Identifier des communs", Lab SoNum x Inno³, 2019
 {% endhint %}
-
 

@@ -33,9 +33,7 @@
 ---
 
 * [Ressources](ressources/README.md)
-  * [Checklist 1/3 : Notre capacité à ouvrir cette ressource](ressources/checklist-1-3-notre-capacite-a-ouvrir-cette-ressource.md)
-  * [Checklist 2/3 : Notre intérêt à ouvrir cette ressource](ressources/checklist-2-3-notre-interet-a-ouvrir-cette-ressource.md)
-  * [Checklist 3/3 : Cette ouverture a de l'intérêt pour l'écosystème](ressources/checklist-3-3-cette-ouverture-a-de-linteret-pour-lecosysteme.md)
+  * [Matrice de décision pour ouvrir une ressource sous forme de commun](ressources/checklist-1-3-notre-capacite-a-ouvrir-cette-ressource.md)
   * [Produire des communs](ressources/produire-des-communs/README.md)
     * [Contribuer à un commun existant](ressources/produire-des-communs/contribuer-a-un-commun-existant/README.md)
       * [Checklist 3/3 : Ma contribution a de l'intérêt pour l'écosystème](ressources/produire-des-communs/contribuer-a-un-commun-existant/checklist-3-3-ma-contribution-a-de-linteret-pour-lecosysteme.md)
