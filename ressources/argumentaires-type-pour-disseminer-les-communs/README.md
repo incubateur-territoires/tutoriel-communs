@@ -1,4 +1,4 @@
-# Argumenter pour disséminer les communs
+# Argumentaire type pour disséminer les communs
 
 En parallèle du développement du commun numérique, il est structurant de soutenir la valorisation et la dissémination de ce dernier pour de nombreuses raisons :
 

@@ -1,4 +1,4 @@
-# Favoriser la pérennité d’un commun
+# Les 8 piliers d'un commun numérique
 
 La pérennité d’un commun numérique repose sur la définition d’un ensemble d’éléments clés, qu’il convient d’identifier et d’adresser le plus en amont possible avec les différent.e.s contributeur.ice.s au projet.
 

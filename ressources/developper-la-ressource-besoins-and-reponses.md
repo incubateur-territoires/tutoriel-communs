@@ -1,4 +1,4 @@
-# Développer la ressource : besoins & réponses
+# Typologie de contributeurs : besoins & réponses
 
 <table>
   <thead>

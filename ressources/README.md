@@ -4,13 +4,17 @@ Vous retrouvez ici les fiches devant vous permettre de concrétiser au mieux les
 
 {% page-ref page="checklist-1-3-notre-capacite-a-ouvrir-cette-ressource.md" %}
 
+{% page-ref page="checklist-1-3-ma-capacite-a-contribuer.md" %}
+
+{% page-ref page="developper-la-ressource-besoins-and-reponses.md" %}
 
 
-* [Intérêt à ouvrir la ressource](produire-des-communs/contribuer-a-un-commun-existant/checklist-2-3-mon-interet-a-contribuer.md)
+
+* [Intérêt à ouvrir la ressource]()
 * [Intérêt pour l’écosystème]()
-* [Contribuer à un commun existant](produire-des-communs/contribuer-a-un-commun-existant/)
-* [Développer la ressource : besoins et réponses](produire-des-communs/developper-la-ressource-besoins-and-reponses.md)
-* F[ormaliser et organiser les contributions au commun numérique](formaliser-et-organiser-les-contributions.md)
+* [Contribuer à un commun existant]()
+* [Développer la ressource : besoins et réponses](developper-la-ressource-besoins-and-reponses.md)
+* F[ormaliser et organiser les contributions au commun numérique]()
 * [Définir le cadre de collaboration](definir-le-cadre-de-collaboration-dun-projet.md)
 * [Financer un projet de commun numérique](financer-un-projet-de-commun.md)
 * [Argumenter pour disséminer le commun numérique](argumentaires-type-pour-disseminer-les-communs/)

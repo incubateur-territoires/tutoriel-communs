@@ -4,7 +4,7 @@ description: >-
   contribution à un commun existant.
 ---
 
-# Checklist 1/3 : Ma capacité à contribuer
+# Matrice de décision pour contribuer à un commun existant
 
 ## Checklist 1/3 : Ma capacité à contribuer
 

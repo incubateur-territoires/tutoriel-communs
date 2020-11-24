@@ -1,4 +1,4 @@
-# Financer un projet de commun
+# Panorama des financements en matière de communs
 
 En période d’amorçage, puis à différents moments de la vie du projet, le Commun peut rencontrer des besoins de financements.
 
