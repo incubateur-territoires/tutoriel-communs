@@ -31,4 +31,5 @@ Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du 
 
 * [Grille d'analyse des licences libres](https://vvlibri.org/fr/licences/analysis)
 * Contacter vos services internes, à défaut la [DAJ](https://www.economie.gouv.fr/apie/coordonnees) 
+* Ressource "[Matrice de décision pour contribuer à un commun existant](../../ressources/checklist-1-3-ma-capacite-a-contribuer.md)"
 
