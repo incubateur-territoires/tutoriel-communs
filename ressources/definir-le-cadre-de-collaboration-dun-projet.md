@@ -24,7 +24,7 @@ S’il est particulièrement utile au lancement d’un projet, il peut être mob
 * Prévoir des post-its et des feutres
 * Éventuellement, prévoir un moyen de chronométrer le temps de parole de chacun, pour assurer la fluidité de l’exercice et la bonne participation de tous.
 
-![](../../.gitbook/assets/image1-speedboat.jpg)
+![](../.gitbook/assets/image1-speedboat.jpg)
 
 ### Méthodologie
 
@@ -58,7 +58,7 @@ Chaque phase est à formater en fonction du temps de l’atelier et du nombre de
 * Possibilité de faire travailler les participants sur un ou plusieurs des éléments structurants identifiés sur le mât \(par ex : charte, valeurs communes, etc.\) de manière plus approfondie et précise.
 * Possibilité de partager avec les participants les [Piliers d’un projet de commun numérique]() »  pour les inspirer et/ou les faire réagir.
 
-![Exemple d&#x2019;un support rempli &#xE0; l&#x2019;issu d&#x2019;un atelier](../../.gitbook/assets/speedboat2.png)
+![Exemple d&#x2019;un support rempli &#xE0; l&#x2019;issu d&#x2019;un atelier](../.gitbook/assets/speedboat2.png)
 
 
 

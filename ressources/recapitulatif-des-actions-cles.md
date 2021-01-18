@@ -1,6 +1,6 @@
 # Checklist : actions-clés
 
-### [Préfigurer la constitution en commun numérique](../../thematiques-1/recommandations-1-preparer-la-constitution-en-commun-numerique/)
+### [Préfigurer la constitution en commun numérique](../thematiques-1/recommandations-1-preparer-la-constitution-en-commun-numerique/)
 
 * [ ] A1. Formaliser les **caractéristiques principales** de mon projet
 * [ ] A2. Cartographier les acteurs concernés et les ressources existantes mobilisables **pour répondre à mon besoin**
@@ -12,7 +12,7 @@
 * [ ] A.8 En cas de réutilisation de ressources existantes, s'assurer de la conformité **des régimes juridiques** au regard du contexte d'utilisation et des objectifs **du communs numériques**. **En cas de doute, solliciter une expertise sur ce sujet**
 * [ ] **A.9 Publier en ligne toutes les informations relatives à la description, le cadre de collaboration et la licence du commun numérique**
 
-### [Participer à la vie du commun numérique](../../thematiques-1/animation-2/)
+### [Participer à la vie du commun numérique](../thematiques-1/animation-2/)
 
 * [ ] B.1 Définir une communication **fédératrice** autour du **commun numérique**
 * [ ] B.2 **Organiser** un processus permettant **de répondre et d’interagir face** aux sollicitations externes
@@ -31,7 +31,7 @@
 * [ ] **B.15 Définir les besoins de financement du commun ainsi que les sources potentielles de financement**
 * [ ] **B.16 Identifier et soutenir la valorisation du commun par les membres de la communauté**
 
-### [Anticiper la suite du commun numérique](../../thematiques-1/recommandations-3-anticiper-la-suite-du-commun-numerique/)
+### [Anticiper la suite du commun numérique](../thematiques-1/recommandations-3-anticiper-la-suite-du-commun-numerique/)
 
 * [ ] C.1 Fixer des limitations de durée et de mandats consécutifs aux fonctions dirigeantes de la structure, de façon à assurer une diversité dans la représentation du commun
 * [ ] C.2 Faire graduellement monter en responsabilité de nouveaux membres de la communauté

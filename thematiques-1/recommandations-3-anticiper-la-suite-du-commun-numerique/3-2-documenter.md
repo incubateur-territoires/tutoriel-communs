@@ -22,7 +22,7 @@ description: >-
 * [ ] C.4 Organiser une équipe en charge de répondre aux questionnements internes et externes à la communauté et de maintenir la base de connaissances afférente 
 * [ ] C.5 Définir les règles relatives à la mise à jour de la documentation
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../../ressources-1/ressources/recapitulatif-des-actions-cles.md)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../../ressources/recapitulatif-des-actions-cles.md)
 
 ## 💡 Ressources utiles
 

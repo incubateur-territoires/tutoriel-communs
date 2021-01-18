@@ -25,7 +25,7 @@ description: >-
 2. [ ] A.5 Formaliser les objectifs et valeurs du projet de commun numérique dans un document, et veiller à son acceptation par toutes les parties prenantes
 3. [ ] A.6 Formaliser et communiquer publiquement sur l'objectif du commun numérique et la méthodologie adoptée
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../../ressources-1/ressources/recapitulatif-des-actions-cles.md)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../../ressources/recapitulatif-des-actions-cles.md)
 
 ## 💡 Ressources utiles
 

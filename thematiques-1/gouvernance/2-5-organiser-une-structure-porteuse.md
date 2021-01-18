@@ -22,7 +22,7 @@ description: >-
 * [ ] B.13 Choisir la structure la plus adaptée au commun à l'aune des objectifs communs et compatible avec les intérêts individuels des membres 
 * [ ] B.14 Faire évoluer la structure au fil du temps en fonction du développement du commun
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../../ressources-1/ressources/recapitulatif-des-actions-cles.md)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../../ressources/recapitulatif-des-actions-cles.md)
 
 ## 💡 Ressources utiles
 

@@ -36,7 +36,7 @@ Dans ce cadre, le tableau “Liste des besoins de financement et dispositifs ass
 | Déplacement, groupe de travail, événements, réunions |
 | Recherche : OS, modèle de transaction, etc. |
 
-{% file src="../../.gitbook/assets/4\_panorama\_financementsacteursmodalites.ods" caption="Panorama des financements" %}
+{% file src="../.gitbook/assets/4\_panorama\_financementsacteursmodalites.ods" caption="Panorama des financements" %}
 
 {% hint style="danger" %}
 Doit-on évoquer une date de fabrication ou de péremption de ce fichier ?

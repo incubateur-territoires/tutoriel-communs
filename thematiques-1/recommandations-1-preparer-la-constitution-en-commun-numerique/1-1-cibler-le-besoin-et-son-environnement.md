@@ -30,9 +30,9 @@ description: Clarifier son besoin et le confronter aux démarches existantes.
 * Annuaire de logiciels _open source_ publics [code.etalab.gouv.fr ](https://code.etalab.gouv.fr/fr/groups)\(codes sources du secteur public\)
 * Tutoriel aux communs numériques - Section [Comprendre](../01-comprendre/) et [Disséminer]() 
 * Ressources "Matrices de décision" pour :
-  * [Ouvrir une ressource sous forme de commun](../../ressources-1/ressources/checklist-1-3-notre-capacite-a-ouvrir-cette-ressource.md) 
-  * [Contribuer à un commun existant](../../ressources-1/ressources/checklist-1-3-ma-capacite-a-contribuer.md)
-* Ressource « [Argumentaire à destination d'un.e élu.e](../../ressources-1/ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-elu.e.md) »
+  * [Ouvrir une ressource sous forme de commun](../../ressources/checklist-1-3-notre-capacite-a-ouvrir-cette-ressource.md) 
+  * [Contribuer à un commun existant](../../ressources/checklist-1-3-ma-capacite-a-contribuer.md)
+* Ressource « [Argumentaire à destination d'un.e élu.e](../../ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-elu.e.md) »
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../../ressources-1/ressources/recapitulatif-des-actions-cles.md)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../../ressources/recapitulatif-des-actions-cles.md)
 

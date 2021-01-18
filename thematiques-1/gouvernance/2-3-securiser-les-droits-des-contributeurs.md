@@ -19,7 +19,7 @@ description: Sécuriser juridiquement les contributions au commun numérique
 * [ ] B.8 Mettre en place des bonnes pratiques en matière de contribution au commun
 * [ ] B.9 Définir et faire application les conditions supplémentaires relatives à l'acceptation des contributions au sein du commun \(accord de contribution\)
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../../ressources-1/ressources/recapitulatif-des-actions-cles.md)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../../ressources/recapitulatif-des-actions-cles.md)
 
 ## 💡 Ressources utiles
 

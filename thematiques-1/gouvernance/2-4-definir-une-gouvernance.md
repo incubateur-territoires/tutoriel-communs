@@ -19,10 +19,10 @@ description: Consolider l'animation de la communauté
 * [ ] B.11 Solliciter et favoriser l'engagement des membres prêts à s’investir dans la gouvernance
 * [ ] B.12 Mettre en place un mode de résolution des conflits interne à la communauté
 
-Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../../ressources-1/ressources/recapitulatif-des-actions-cles.md)
+Retrouvez la totalité des actions-clés à réaliser tout au long de la vie du commun numérique [ici](../../ressources/recapitulatif-des-actions-cles.md)
 
 ## 💡 Ressources utiles
 
 * Tutoriel aux communs numériques - Section [Maintenir & Pérenniser](04-perenniser.md)
-* Ressource "[Définir le cadre de collaboration d'un projet](../../ressources-1/ressources/definir-le-cadre-de-collaboration-dun-projet.md)"
+* Ressource "[Définir le cadre de collaboration d'un projet](../../ressources/definir-le-cadre-de-collaboration-dun-projet.md)"
 
