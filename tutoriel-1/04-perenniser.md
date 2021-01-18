@@ -1,8 +1,9 @@
-# 4. Maintenir / Pérenniser
+# Gouvernance
 
-Le commun tire sa force de la pérennité du modèle sur lequel il repose. Ainsi, aussi longtemps qu’il est utile à ses utilisateurs, il doit pouvoir continuer à évoluer et s’adapter à leurs attentes.
+Pour être une brique pérenne du service numérique qui l'utilise, le commun doit pouvoir continuer à évoluer et s’adapter. Cela nécessite de 
 
-Ce statut n’est néanmoins pas automatique, et nécessite notamment la formalisation d’un certain nombre de règles et la mise en place d’une gouvernance partagée. Il convient aussi d’anticiper les divers risques afin d’assurer un modèle pérenne techniquement, juridiquement et économiquement.
+* formaliser un certain nombre de règles et la mise en place d’une gouvernance partagée.
+* anticiper les divers risques afin d’assurer un modèle pérenne techniquement, juridiquement et économiquement.
 
 ## 4.1. Faut-il formaliser des règles pour pérenniser le commun numérique ?
 

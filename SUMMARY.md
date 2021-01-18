@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenue](README.md)
+* [Bienvenue  \[OLD\]](README.md)
 
 ## Recommandations <a id="recommandations-1"></a>
 
@@ -23,10 +23,11 @@
 ## Tutoriel <a id="tutoriel-1"></a>
 
 * [Introduction](tutoriel-1/tutoriel.md)
-* [1 - Comprendre](tutoriel-1/01-comprendre.md)
-* [2. Identifier](tutoriel-1/02-identifier.md)
-* [3. Produire](tutoriel-1/03-produire.md)
-* [4. Maintenir / Pérenniser](tutoriel-1/04-perenniser.md)
+* [Comprendre](tutoriel-1/01-comprendre/README.md)
+  * [Exemples de communs numériques dans des projets de collectivités territoriales](tutoriel-1/01-comprendre/exemples-de-communs-numeriques-dans-des-projets-de-collectivites-territoriales.md)
+  * [Engagements des parties prenantes](tutoriel-1/01-comprendre/engagements-des-parties-prenantes.md)
+* [3. Les options des projets impliquant des Collectivités Territoriales](tutoriel-1/03-produire.md)
+* [Gouvernance](tutoriel-1/04-perenniser.md)
 * [5. Financer](tutoriel-1/05-financer.md)
 * [6. Disséminer](tutoriel-1/06-disseminer.md)
 
@@ -47,4 +48,5 @@
     * [Argumentaire à destination d’un.e élu.e](ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-elu.e.md)
 * [Comment contribuer ?](comment-contribuer.md)
 * [Glossaire](glossaire.md)
+* [FAQ Différence de gouvernance entre Communs numériques et logiciels libres](faq-difference-de-gouvernance-entre-communs-numeriques-et-logiciels-libres.md)
 

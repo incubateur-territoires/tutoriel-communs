@@ -2,7 +2,7 @@
 
 ## 6.1. Pourquoi disséminer un commun numérique au-delà de sa communauté initiale ?
 
-La pérennité du commun repose notamment sur la communauté qui le compose. Dans le domaine numérique, un tel objectif passe en premier lieu par l’augmentation du nombre d’utilisateurs. En effet, la démultiplication des utilisateurs ne réduit par la valeur ni même l’usage du commun numérique \(cf. [1.1.1 Comment se caractérise un commun numérique ?](01-comprendre.md#1-1-1-comment-se-caracterise-un-commun-numerique)\) mais favorise au contraire l’accroissement du nombre de contributeurs finaux.
+La pérennité du commun repose notamment sur la communauté qui le compose. Dans le domaine numérique, un tel objectif passe en premier lieu par l’augmentation du nombre d’utilisateurs. En effet, la démultiplication des utilisateurs ne réduit par la valeur ni même l’usage du commun numérique \(cf. [1.1.1 Comment se caractérise un commun numérique ?](01-comprendre/#1-1-1-comment-se-caracterise-un-commun-numerique)\) mais favorise au contraire l’accroissement du nombre de contributeurs finaux.
 
 La dissémination doit aussi viser, au-delà du nombre, à enrichir la communauté des utilisateurs de personnes aux profils différents. Cette diversité permet d’éviter l’entre-soi, de renforcer le caractère générique du commun numérique et, ce faisant, d’ouvrir les champs d’application potentiels.
 
