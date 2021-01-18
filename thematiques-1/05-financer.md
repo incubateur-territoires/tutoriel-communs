@@ -10,7 +10,7 @@ De tels financements doivent enfin être strictement limités aux besoins réels
 
 **Ressources**
 
-[Liste des besoins de financement et dispositifs associés](../ressources/) : référentiel coconstruit listant les besoins de financement d’un commun numérique et des dispositifs existants, par typologie de financeurs et de besoins.
+[Liste des besoins de financement et dispositifs associés](../ressources-1/ressources/) : référentiel coconstruit listant les besoins de financement d’un commun numérique et des dispositifs existants, par typologie de financeurs et de besoins.
 
 ## 5.2. Comment gérer les financements externes soutenant la production du commun ?
 

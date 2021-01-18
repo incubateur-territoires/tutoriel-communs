@@ -27,24 +27,25 @@
   * [Repenser le rôle de l’organisation au sein de la communauté](thematiques-1/recommandations-3-anticiper-la-suite-du-commun-numerique/3-1-repenser-le-role-de-l-administration.md)
   * [Documenter ce qui a été fait](thematiques-1/recommandations-3-anticiper-la-suite-du-commun-numerique/3-2-documenter.md)
 
-## Tutoriel <a id="tutoriel-1"></a>
-
 ---
 
-* [Outils](ressources/README.md)
-  * [Checklist : actions-clés](ressources/recapitulatif-des-actions-cles.md)
-  * [Matrice de décision pour ouvrir une ressource sous forme de commun](ressources/checklist-1-3-notre-capacite-a-ouvrir-cette-ressource.md)
-  * [Matrice de décision pour contribuer à un commun existant](ressources/checklist-1-3-ma-capacite-a-contribuer.md)
-  * [Typologie de contributeurs : besoins & réponses](ressources/developper-la-ressource-besoins-and-reponses/README.md)
-    * [Les 8 piliers d'un commun numérique](ressources/developper-la-ressource-besoins-and-reponses/favoriser-la-perennite-dun-commun/README.md)
-      * [Guide pratique](ressources/developper-la-ressource-besoins-and-reponses/favoriser-la-perennite-dun-commun/untitled.md)
-  * [Fiche méthodologique : Définir le cadre de collaboration d’un projet](ressources/definir-le-cadre-de-collaboration-dun-projet.md)
-  * [Panorama des financements en matière de communs](ressources/financer-un-projet-de-commun.md)
-  * [Argumentaire type pour disséminer les communs](ressources/argumentaires-type-pour-disseminer-les-communs/README.md)
-    * [Argumentaire à destination d’un.e citoyen.e non familier.ère avec les communs numériques](ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-citoyen.e-non-familier.ere-avec-les-communs-numeriques.md)
-    * [Argumentaire à destination d’un.e influenceur.euse spécialisée sur les mouvements alternatifs](ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-influenceur.euse-specialisee-sur-les-mouvements-alternatifs.md)
-    * [Argumentaire à destination d’un.e responsable de l’innovation dans un grand groupe](ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-responsable-de-linnovation-dans-un-grand-groupe.md)
-    * [Argumentaire à destination d’un.e élu.e](ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-elu.e.md)
 * [Comment contribuer ?](comment-contribuer.md)
-* [Glossaire](glossaire.md)
+
+## RESSOURCES <a id="ressources-1"></a>
+
+* [Glossaire](ressources-1/glossaire.md)
+* [Outils](ressources-1/ressources/README.md)
+  * [Checklist : actions-clés](ressources-1/ressources/recapitulatif-des-actions-cles.md)
+  * [Matrice de décision pour ouvrir une ressource sous forme de commun](ressources-1/ressources/checklist-1-3-notre-capacite-a-ouvrir-cette-ressource.md)
+  * [Matrice de décision pour contribuer à un commun existant](ressources-1/ressources/checklist-1-3-ma-capacite-a-contribuer.md)
+  * [Typologie de contributeurs : besoins & réponses](ressources-1/ressources/developper-la-ressource-besoins-and-reponses/README.md)
+    * [Les 8 piliers d'un commun numérique](ressources-1/ressources/developper-la-ressource-besoins-and-reponses/favoriser-la-perennite-dun-commun/README.md)
+      * [Guide pratique](ressources-1/ressources/developper-la-ressource-besoins-and-reponses/favoriser-la-perennite-dun-commun/untitled.md)
+  * [Fiche méthodologique : Définir le cadre de collaboration d’un projet](ressources-1/ressources/definir-le-cadre-de-collaboration-dun-projet.md)
+  * [Panorama des financements en matière de communs](ressources-1/ressources/financer-un-projet-de-commun.md)
+  * [Argumentaire type pour disséminer les communs](ressources-1/ressources/argumentaires-type-pour-disseminer-les-communs/README.md)
+    * [Argumentaire à destination d’un.e citoyen.e non familier.ère avec les communs numériques](ressources-1/ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-citoyen.e-non-familier.ere-avec-les-communs-numeriques.md)
+    * [Argumentaire à destination d’un.e influenceur.euse spécialisée sur les mouvements alternatifs](ressources-1/ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-influenceur.euse-specialisee-sur-les-mouvements-alternatifs.md)
+    * [Argumentaire à destination d’un.e responsable de l’innovation dans un grand groupe](ressources-1/ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-responsable-de-linnovation-dans-un-grand-groupe.md)
+    * [Argumentaire à destination d’un.e élu.e](ressources-1/ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-elu.e.md)
 
