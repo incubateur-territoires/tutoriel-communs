@@ -1,31 +1,14 @@
 # Gouvernance
 
-Pour être une brique pérenne du service numérique qui l'utilise, le commun doit pouvoir continuer à évoluer et s’adapter. Cela nécessite de 
 
-* formaliser un certain nombre de règles et la mise en place d’une gouvernance partagée.
-* anticiper les divers risques afin d’assurer un modèle pérenne techniquement, juridiquement et économiquement.
 
-## 4.1. Faut-il formaliser des règles pour pérenniser le commun numérique ?
+documents et pratiques structurantes à mettre en place afin de régir la collaboration des contributeurs au commun : différentes formes \(statuts, charte de valeurs, licence attachée à la ressource, etc.\).
 
-En bref, En bref, OUI. La mise en place de ce cadre est essentielle afin d’assurer la confiance entre les contributeurs et ainsi pérenniser le développement du projet. En effet, tout risque d’«appropriation» \(d’ «enclosure»\) non souhaitée sera très mal vécu par les membres de la communauté et doit être exclu. A cette fin, il est essentielle de mettre en place une gouvernance démocratique du commun, laissant la possibilité à chaque contributeur de s'exprimer, ainsi que d'être force de proposition.
-
-Ce cadre regroupe l’ensemble des documents et pratiques structurantes à mettre en place afin de régir la collaboration des contributeurs au commun et prend différentes formes \(des statuts, une charte de valeurs, la licence attachée à la ressource, etc.\).
-
-Chaque cadre de collaboration est unique, il s’adapte aux enjeux et problématiques propres au projet et à la communauté auxquels il se rapporte : relations entre contributeurs, valeurs partagées, relations avec l’extérieur, méthodes de travail, etc. L’harmonisation croissante des différents points ainsi abordés favorise la mutualisation entre les projets et rassure les contributeurs qui retrouvent ainsi des repères partagés entre les différents projets de communs.
+Chaque cadre de collaboration est unique, il s’adapte aux enjeux et problématiques propres au projet et à la communauté auxquels il se rapporte : relations entre contributeurs, valeurs partagées, relations avec l’extérieur, méthodes de travail, etc. .
 
 **Ressources** ![PiliersCommuns](../../.gitbook/assets/3_PiliersPerenniteCommuns-1.png) ![PiliersCommuns](../../.gitbook/assets/3_PiliersPerenniteCommuns-2.png) Ces piliers & lignes directrices pour favoriser la pérennité d’un commun constituent des exemples d'éléments-clés ayant vocation à donner confiance l’ensemble des parties prenantes en leur fournissant un environnement sécurisant et propice à la création. Vous pourrez en trouver une version éditable sur notre framagit; ainsi qu'une [Méthodologie pour définir le cadre de collaboration d’un projet](https://framagit.org/inno3/tutoriel-communs-numeriques/blob/master/ressources/M%C3%A9thodologie%20SpeedBoat%20-%20Cadre%20de%20collaboration.pdf) permettant la conduite d’un exercice collectif dit «du speedboat», qui a pour objectif de lister les leviers, freins et obstacles rencontrés par le projet ou qui peuvent se présenter à lui. Cet exercice permet également d’identifier les éléments structurants les plus adaptés pour tirer profit des leviers et anticiper les freins et obstacles potentiels.
 
-## 4.2. Quelle gouvernance prévoir pour encadrer les relations entre les acteurs ?
-
-Les relations des contributeurs à un projet de commun numérique sont nombreuses et diverses, allant de la simple coordination de contributions à des prises de décisions sur l’avenir de la ressource.
-
-À cette fin, il est important de mettre en place une gouvernance pour structurer ces relations et, ainsi, de donner une légitimité interne aux décisions prises par la communauté. Les effets se feront sentir en termes de confiance accrue dans le projet en interne et en externe.
-
-À ce titre, le choix ou non d’une structure juridique, partiellement ou totalement dédiée, pour formaliser cette gouvernance peut en conditionner ou implémenter certains aspects. Si la nécessité de disposer d’une personnalité juridique perdure afin d’agir en justice, de bénéficier de certaines aides ou de contractualiser, des outils numériques étendent aujourd’hui le champ des actions susceptibles d’être réalisées en dehors d’un tel cadre \(telle que la plateforme [OpenCollective](https://opencollective.com). La nécessité de créer une structure juridique, voire la solution intermédiaire d’être hébergé au sein d’une structure existante, est généralement recommandée lorsqu’un intérêt collectif fort réunit les différents acteurs ou qu’il existe un risque à maintenir la responsabilité des actions sur les seuls membres.
-
-Les modèles associatifs ou coopératifs \(SCOP ou SCIC\) sont particulièrement souples et adaptés pour soutenir le développement d’un commun, néanmoins d’autres formes \(GIE, SAS, GIP, etc.\) peuvent parfaitement aboutir à des résultats similaires dès lors que leur objet est tourné vers la réalisation de cet objectif.
-
-Par ailleurs, si la mise en place d’une gouvernance est essentielle, il n’existe pas de gouvernance idéale – sinon celle qui répond au mieux aux enjeux et problématiques spécifiques au projet auquel elle s’applique. La majorité des gouvernances de projets de communs numériques partagent certains éléments tels que la volonté d’être lisibles et compréhensibles par toutes les parties prenantes au projet, des mécanismes assurant la transparence des décisions prises, et des dispositifs permettant l’ouverture de la gouvernance aux contributeurs, voire aux partenaires externes au projet.
+## 4.2. 
 
 **Ressources**
 

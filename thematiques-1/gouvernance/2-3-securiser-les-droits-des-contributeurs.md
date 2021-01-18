@@ -2,7 +2,7 @@
 description: Sécuriser juridiquement les contributions au commun numérique
 ---
 
-# Sécuriser les droits des contributeurs
+# Sécuriser les droits des contributeurs ✅
 
 ## ❓ Enjeux
 
