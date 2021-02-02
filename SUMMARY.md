@@ -5,7 +5,6 @@
 ## Thématiques <a id="thematiques-1"></a>
 
 * [Principes de base](thematiques-1/01-comprendre/README.md)
-  * [Exemples de communs numériques dans des projets de collectivités territoriales](thematiques-1/01-comprendre/exemples-de-communs-numeriques-dans-des-projets-de-collectivites-territoriales.md)
   * [Engagements des parties prenantes](thematiques-1/01-comprendre/engagements-des-parties-prenantes.md)
 * [Préfiguration](thematiques-1/recommandations-1-preparer-la-constitution-en-commun-numerique/README.md)
   * [Cibler le besoin et son environnement](thematiques-1/recommandations-1-preparer-la-constitution-en-commun-numerique/1-1-cibler-le-besoin-et-son-environnement.md)
