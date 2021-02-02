@@ -13,7 +13,6 @@
 * [Gouvernance](thematiques-1/gouvernance/README.md)
   * [Gouvernance](thematiques-1/gouvernance/04-perenniser.md)
   * [Sécuriser les droits des contributeurs ✅](thematiques-1/gouvernance/2-3-securiser-les-droits-des-contributeurs.md)
-  * [FAQ Différence de gouvernance entre Communs numériques et logiciels libres](thematiques-1/gouvernance/faq-difference-de-gouvernance-entre-communs-numeriques-et-logiciels-libres.md)
   * [Organiser une structure porteuse ✅](thematiques-1/gouvernance/2-5-organiser-une-structure-porteuse.md)
 * [Outillage des projets ✅](thematiques-1/03-produire.md)
 * [Financement](thematiques-1/05-financer.md)
@@ -29,6 +28,8 @@
 
 ---
 
+* [Comment contribuer ?](comment-contribuer.md)
+* [Glossaire](glossaire.md)
 * [Outils](ressources/README.md)
   * [Checklist : actions-clés](ressources/recapitulatif-des-actions-cles.md)
   * [Matrice de décision pour ouvrir une ressource sous forme de commun](ressources/checklist-1-3-notre-capacite-a-ouvrir-cette-ressource.md)
@@ -43,6 +44,4 @@
     * [Argumentaire à destination d’un.e influenceur.euse spécialisée sur les mouvements alternatifs](ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-influenceur.euse-specialisee-sur-les-mouvements-alternatifs.md)
     * [Argumentaire à destination d’un.e responsable de l’innovation dans un grand groupe](ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-responsable-de-linnovation-dans-un-grand-groupe.md)
     * [Argumentaire à destination d’un.e élu.e](ressources/argumentaires-type-pour-disseminer-les-communs/argumentaire-a-destination-dun.e-elu.e.md)
-* [Comment contribuer ?](comment-contribuer.md)
-* [Glossaire](glossaire.md)
 
