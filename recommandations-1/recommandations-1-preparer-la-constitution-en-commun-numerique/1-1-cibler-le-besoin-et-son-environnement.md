@@ -28,7 +28,7 @@ description: Clarifier son besoin et le confronter aux démarches existantes.
 
 * Moteur de recherche [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/) \(bases de données _open data_ des administrations\) 
 * Annuaire de logiciels _open source_ publics [code.etalab.gouv.fr ](https://code.etalab.gouv.fr/fr/groups)\(codes sources du secteur public\)
-* Tutoriel aux communs numériques - Section [Comprendre](../../tutoriel-1/01-comprendre/) et [Disséminer](../../tutoriel-1/06-disseminer.md) 
+* Tutoriel aux communs numériques - Section [Comprendre](../../tutoriel-1/01-comprendre.md) et [Disséminer](../../tutoriel-1/06-disseminer.md) 
 * Ressources "Matrices de décision" pour :
   * [Ouvrir une ressource sous forme de commun](../../ressources/checklist-1-3-notre-capacite-a-ouvrir-cette-ressource.md) 
   * [Contribuer à un commun existant](../../ressources/checklist-1-3-ma-capacite-a-contribuer.md)

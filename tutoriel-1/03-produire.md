@@ -1,4 +1,4 @@
-# 3. Les options des projets impliquant des Collectivités Territoriales
+# 3. Produire
 
 Dans une démarche collaborative de production de communs numériques, il est nécessaire d’identifier précisément et d’isoler chaque besoin susceptible d’être couvert par un contributeur, afin de permettre dans un second temps à toute personne de proposer une contribution la plus utile au projet.
 
@@ -16,7 +16,9 @@ En matière de commun numérique, de multiples besoins fréquents s’ajoutent �
 * Sur notre framagit, vous pourrez retrouver la [Liste des besoins fréquents d’un commun](https://framagit.org/inno3/tutoriel-communs-numeriques/blob/master/referentiels/2_Tableau_OrganiserLaContribution.odt) \(référentiel coconstruit listant un certain nombre de besoins fréquents formalisés au sein de projets de commun numérique\), afin de la télécharger pour la compléter et l'adapter à votre commun. 
 * Pour aller plus loin, vous pouvez consulter une synthèse des présentations liées à l'identification des ressources [ici](https://vbachelet.frama.io/tutoriel-communs-numeriques/Pre-Atelier-02/)
 
-## 
+## 3.2. Quel cadre mettre en place pour faciliter la contribution à la ressource ?
+
+Une fois les besoins définis et les communautés identifiées \(cf. [3.1. Qui peut répondre aux besoins de développement du commun et de quelle manière ?](https://vbachelet.frama.io/tutoriel-communs-numeriques/02-Tutoriel/#31-qui-peut-repondre-aux-besoins-de-developpement-du-commun-et-de-quelle-maniere) \), un cadre doit être formalisé afin d’inciter, d’accueillir et de faciliter les contributions de ces communautés. Ce n’est qu’à cette condition que seront « transformées » les volontés de contributions en contributions réelles, chaque obstacle subsistant rendant moins certaine la contribution et plus difficile son intégration dans le commun numérique.
 
 Plusieurs éléments doivent être considérés afin de mettre en place un cadre efficace pour structurer la contribution à la ressource :
 
