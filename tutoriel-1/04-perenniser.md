@@ -12,7 +12,7 @@ Ce cadre regroupe l’ensemble des documents et pratiques structurantes à mettr
 
 Chaque cadre de collaboration est unique, il s’adapte aux enjeux et problématiques propres au projet et à la communauté auxquels il se rapporte : relations entre contributeurs, valeurs partagées, relations avec l’extérieur, méthodes de travail, etc. L’harmonisation croissante des différents points ainsi abordés favorise la mutualisation entre les projets et rassure les contributeurs qui retrouvent ainsi des repères partagés entre les différents projets de communs.
 
-**Ressources** ![PiliersCommuns](../.gitbook/assets/3_PiliersPerenniteCommuns-1.png) ![PiliersCommuns](../.gitbook/assets/3_PiliersPerenniteCommuns-2.png) Ces piliers & lignes directrices pour favoriser la pérennité d’un commun constituent des exemples d'éléments-clés ayant vocation à donner confiance l’ensemble des parties prenantes en leur fournissant un environnement sécurisant et propice à la création. Vous pourrez en trouver une version éditable sur notre framagit; ainsi qu'une [Méthodologie pour définir le cadre de collaboration d’un projet](https://framagit.org/inno3/tutoriel-communs-numeriques/blob/master/ressources/M%C3%A9thodologie%20SpeedBoat%20-%20Cadre%20de%20collaboration.pdf) permettant la conduite d’un exercice collectif dit «du speedboat», qui a pour objectif de lister les leviers, freins et obstacles rencontrés par le projet ou qui peuvent se présenter à lui. Cet exercice permet également d’identifier les éléments structurants les plus adaptés pour tirer profit des leviers et anticiper les freins et obstacles potentiels.
+**Ressources** ![PiliersCommuns](../.gitbook/assets/3_PiliersPerenniteCommuns-1.png) ![PiliersCommuns](../.gitbook/assets/3_PiliersPerenniteCommuns-2.png) Ces piliers & lignes directrices pour favoriser la pérennité d’un commun constituent des exemples d'éléments-clés ayant vocation à donner confiance l’ensemble des parties prenantes en leur fournissant un environnement sécurisant et propice à la création. Vous pourrez en trouver une version éditable sur notre framagit; ainsi qu'une [Méthodologie pour définir le cadre de collaboration d’un projet](../ressources/definir-le-cadre-de-collaboration-dun-projet.md) permettant la conduite d’un exercice collectif dit «du speedboat», qui a pour objectif de lister les leviers, freins et obstacles rencontrés par le projet ou qui peuvent se présenter à lui. Cet exercice permet également d’identifier les éléments structurants les plus adaptés pour tirer profit des leviers et anticiper les freins et obstacles potentiels.
 
 ## 4.2. Quelle gouvernance prévoir pour encadrer les relations entre les acteurs ?
 
@@ -28,9 +28,7 @@ Par ailleurs, si la mise en place d’une gouvernance est essentielle, il n’ex
 
 **Ressources**
 
-Sur notre framagit, vous pourrez retrouver :
-
-* [Des exemples de structurations juridiques constituées autour de communs numériques](https://framagit.org/inno3/tutoriel-communs-numeriques/blob/master/ressources/Exemples_StructuresJuridiques_Communs.pdf) : tableau synthétique basé sur les projets détaillés en atelier permettant de présenter les différentes structurations juridiques formalisées.
+* [Des exemples de structurations juridiques constituées autour de communs numériques](../ressources/typologie-de-structurations-juridiques-possibles.md) : tableau synthétique basé sur les projets détaillés en atelier permettant de présenter les différentes structurations juridiques formalisées.
 * [Des exemples de gouvernance](https://framagit.org/inno3/tutoriel-communs-numeriques/blob/master/ressources/ExemplesChartes-CadresCollaboration.pdf) : exemples des chartes rédigées par d’autres projets, notamment Federation et La Fabrique des mobilités.
 
 ## 4.3. À quels enjeux juridiques la communauté doit-elle répondre ?

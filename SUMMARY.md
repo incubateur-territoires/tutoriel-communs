@@ -33,6 +33,8 @@
 ---
 
 * [Ressources](ressources/README.md)
+  * [Exemple de cadres de collaboration](ressources/exemple-de-cadres-de-collaboration.md)
+  * [Typologie de structurations juridiques possibles](ressources/typologie-de-structurations-juridiques-possibles.md)
   * [Matrice de décision pour ouvrir une ressource sous forme de commun](ressources/checklist-1-3-notre-capacite-a-ouvrir-cette-ressource.md)
   * [Matrice de décision pour contribuer à un commun existant](ressources/checklist-1-3-ma-capacite-a-contribuer.md)
   * [Typologie de contributeurs : besoins & réponses](ressources/developper-la-ressource-besoins-and-reponses/README.md)
