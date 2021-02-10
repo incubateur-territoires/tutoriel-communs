@@ -37,7 +37,7 @@ Le droit se manifestant à chaque collaboration, tout projet de commun numériqu
 
 Les enjeux juridiques peuvent ainsi être multiples :
 
-* **Concernant le développement de la ressource** : la licence du projet \(cf. [4.4. Pourquoi choisir une licence libre pour diffuser le commun numérique ?](https://vbachelet.frama.io/tutoriel-communs-numeriques/02-Tutoriel/#44-pourquoi-choisir-une-licence-libre-pour-diffuser-le-commun-numerique)\), les contrats avec les contributeurs, la marque, voire les brevets relatifs au projet et tous les autres aspects juridiques spécifiques à une réglementation \(notamment les règles en matière d’export, de santé, de chiffrement, etc.\). Des référentiels existent ; 
+* **Concernant le développement de la ressource** : la licence du projet \(cf. [4.4. Pourquoi choisir une licence libre pour diffuser le commun numérique ?](04-perenniser.md#4-4-pourquoi-choisir-une-licence-libre-pour-diffuser-le-commun-numerique)\), les contrats avec les contributeurs, la marque, voire les brevets relatifs au projet et tous les autres aspects juridiques spécifiques à une réglementation \(notamment les règles en matière d’export, de santé, de chiffrement, etc.\). Des référentiels existent ; 
 * **Concernant l’organisation des relations avec des tiers** : les prestations, les conventions de partenariats, les suivis de subventions ou des dons, les adhésions croisées ou encore les actions en justice.
 * Ces enjeux juridiques sont importants à traiter, au risque sinon d’en faire peser la charge sur quelques contributeurs personnellement. Relativement communs aux projets de communs numériques, ils sont parfois mutualisés au sein de «fondations parapluies». 
 
